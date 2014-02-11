@@ -5,16 +5,15 @@ Table of Contents
 -----------------
 
 * Chapter 1: Introduction
-* Chapter 2: Generation of therapeutic leads by screening libraries of molecules
+* Chapter 2: pharmacologic regulation of Wnt signaling using in vitro and in vivo stem cell models
     - Chemical-genetic screen identifies riluzole as an enhancer of Wnt/ß-catenin signaling. [Biechele2010]
+    - WIKI4, a novel inhibitor of tankyrase and Wnt/ß-catenin signaling [James2012]
+    - Simvastatin Promotes Adult Hippocampal Neurogenesis by Enhancing Wnt/β-Catenin Signaling [Robin2014]
+* Chapter 3: identification of disease mechanisms caused by Wnt misregulation in stem and progenitor cells
     - Wnt/ß-Catenin Signaling and AXIN1 Regulate Apoptosis Triggered by Inhibition of the Mutant Kinase BRAFV600E in Human Melanoma [Biechele2012]
-* Chapter 3: Complex phenotypes revealed through omics analysis of st
-    - WIKI4, a novel inhibitor of tankyrase and Wnt/ß-catenin signaling [James2013]
-    - WNT1 mutation Martin 2013
-* Chapter 4: Considering stem cells as populations
-    - [James2013]
-    - [Robin2014]
-* Chapter 5: Conclusion
+    - Protein Kinase PKN1 Represses Wnt/β-Catenin Signaling in Human Melanoma Cells [James2013]
+    - A rare WNT1 missense variant overrepresented in ASD leads to increased Wnt signal pathway activation. [Martin2013]
+* Chapter 4: Conclusion
 
 Chapter Structure
 -----------------
