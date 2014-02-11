@@ -8,7 +8,7 @@ Table of Contents
 * Chapter 2: Generation of therapeutic leads by screening libraries of molecules
     - Chemical-genetic screen identifies riluzole as an enhancer of Wnt/ß-catenin signaling. [Biechele2010]
     - Wnt/ß-Catenin Signaling and AXIN1 Regulate Apoptosis Triggered by Inhibition of the Mutant Kinase BRAFV600E in Human Melanoma [Biechele2012]
-* Chapter 3: Omic analysis of complex phenotypes to investigate cell mechanisms
+* Chapter 3: Complex phenotypes revealed through omics analysis of st
     - WIKI4, a novel inhibitor of tankyrase and Wnt/ß-catenin signaling [James2013]
     - WNT1 mutation Martin 2013
 * Chapter 4: Considering stem cells as populations
