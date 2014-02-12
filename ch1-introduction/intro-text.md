@@ -1,43 +1,29 @@
-This section should outline the general theme and the objectives.
+<!-- TOPICS INTRO -->
 
-and should also warn a reader of any overlap in the article chapters, such as in the literature reviews or the methods 
-section of each article.
+<!--    Therapeutics -->
+Novel therapeutics will control stem cell signaling
 
+<!--        [3 Refs] -->
 
+<!--    Stem Cell Signaling -->
+Wnt signaling is key to stem cell signaling
 
-General Theme
--------------
+<!--        [6 Refs] -->
 
-Cell signaling
+<!--    Wnt Signaling in Stem Cells -->
+Wnt signaling controls tumor stem cell death, hESC differentiation, adult neurogenesis
 
-Discovering biological regulators
+<!--        [9 Refs] -->
 
-Wnt/ß-catenin signaling
+<!--    Pharmacologic Regulators of Wnt -->
+We have relatively few tools to modify Wnt signaling both experimentally and therapeutically
+<!--       [All Refs] -->
 
-Stem and progenitor cells
+<!-- RESEARCH OBJECTIVE -->
+The research objectives of this thesis dissertation are the following:
 
-Hight throughput screening / Automation
+* Elucidate the role of signaling pathways in governing stem cell behaviors like differentiation and programmed death.
 
-Small molecules
+* Identify opportunites where perturbation of cell signaling in stem and progenitor cells may inform the development of a rational therapeutic.
 
-Objectives
-----------
-
-Elucidate the role of signaling pathways in governing stem cell behaviors like differentiation and programmed death.
-
-Identify opportunites where perturbation of cell signaling in stem and progenitor cells may inform the development of a rational therapeutic.
-
-Discover molecular regulators of key signaling events with applications to both basic research and clinical drug development.
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Discover molecular regulators of key signaling events with applications to both basic research and clinical drug development.

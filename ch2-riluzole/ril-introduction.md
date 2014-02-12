@@ -1,6 +1,5 @@
 <!-- sets the context and draws out the overall implications of the work -->
-
-## Problem Definition
+# Context
 
 
 ### Considerations
