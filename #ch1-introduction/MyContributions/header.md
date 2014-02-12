@@ -1,2 +1,2 @@
-1.2 Contributions
------------------
+## 1.2 My Contributions to Included Published Works
+

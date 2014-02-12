@@ -1,3 +1,5 @@
+### 1.1.2 Determining Relationships Between Biological Mechanisms and Cell Signaling Events
+
 <!--        Clearly state OBJECTIVE -->
 An aim of my work was to elucidate the role of signaling pathways in governing stem cell behaviors like differentiation and programmed death.
 
