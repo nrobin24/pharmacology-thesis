@@ -24,6 +24,7 @@
 
 ### Research Statement
 
+
 * $OBJECTIVE
     - Clearly state OBJECTIVE
     - Why is OBJECTIVE worth focusing on
