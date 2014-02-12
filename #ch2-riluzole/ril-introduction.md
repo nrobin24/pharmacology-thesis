@@ -1,4 +1,14 @@
 <!-- sets the context and draws out the overall implications of the work -->
+
+^ Your assumptions – yes, every one of them
+^ Your limitations – yes, every one of them
+^ Requirements of your solution/approach – both mandatory and optional 
+^ Constraints under which your solution will work
+^ Above all, why these assumptions, limitations, requirements & constraints
+^ A concrete validation plan for your hypothesis – experiments, simulation, 
+theorems, proofs, etc. 
+^ Scope – what’s part of your thesis and what is definitely not 
+
 # Context
 
 

@@ -22,17 +22,14 @@
 
 * What is my one unifying goal in my research
 
-### Statement of Specific Research Objectives
+### Research Statement
 
 * $OBJECTIVE
+    - Clearly state OBJECTIVE
     - Why is OBJECTIVE worth focusing on
     - Where is the field at in terms of accomplishing OBJECTIVE
     - What unique hurdles does OBJECTIVE present
-
-### Approach by Objective
-
-* $OBJECTIVE
-    - What is my unique contribution to the field in attempting to accomplish this injective
+    - What is my unique contribution to the field in attempting to accomplish OBJECTIVE
     - How does my approach attempt to address hurdles
 
 ### Contribution by Article
