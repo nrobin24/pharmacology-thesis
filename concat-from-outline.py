@@ -5,6 +5,8 @@
 
 import csv
 import shutil
+from subprocess import call
+
 # create the output file
 outfile = 'dist/build.md'
 
@@ -17,6 +19,9 @@ with open('outline.csv', 'rb') as csvfile:
             print row[0]
             shutil.copyfileobj(open(row[0], 'rb'), destination)
 destination.close()
+
+#make into a docx file
+#call(['pandoc build.md -s -o build.docx'])
 
 # <codecell>
 

@@ -44,3 +44,4 @@ As I applied these approaches to research, I contributed to peer reviewed public
 * the repurposing of FDA approved drugs to modulate Wnt signaling in disease relevant contexts using in vitro and in vivo stem cell models
 
 * identification of disease mechanisms centered around Wnt misregulation in stem and progenitor cells
+
