@@ -5,4 +5,4 @@ rm dist/build.html
 
 python concat-from-outline.py
 pandoc dist/build.md -s -o dist/build.docx
-pandoc dist/build.md -s -o dist/build.html
+pandoc dist/build.md -s -o  dist/build.html --toc

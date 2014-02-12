@@ -1,10 +1,8 @@
-Statement of problem to be addressed
-------------------------------------
+<!-- Statement of problem to be addressed -->
 
 The flow of information through signaling pathways in stem and progenitor cells triggers events such as proliferation, differentation, and programmed cell death. A disruption in signaling, as can caused by a gene mutation or environmental factor, influences cell behavior in a way that can precipitate diseases like cancer and neurodegenertion. It stands to reason that if we can monitor and influence signaling events in stem and progenitor cells with sufficient resolution, we will be able to counter the effects of such diseases. Significant technical advances over the last decade in our ability to monitor and control cell state has yielded speculation of a coming wave of rational and targetted therapies. However, the landscape of therapeutics in use today is populated overwhelmingly by classes of molecules that long pre-date the modern era of genomics and proteomics focused research.
 
-Obstacles experienced in similar projects
------------------------------------------
+<!-- Obstacles experienced in similar projects -->
 
 Studying cell signaling is difficult
 
@@ -19,8 +17,7 @@ Stem cell populations have diverse contexts
 * Adult Neural Progenitor Cells
 
 
-Approach and results
---------------------
+<!-- Approach and results -->
 
 Focus on Wnt/ß-Catenin signaling.
 
@@ -36,8 +33,7 @@ Use of automated data acquisition and analysis.
 
 Parallel experimentation in multiple stem cell based models.
 
-Impact to the Field
--------------------
+<!-- Impact to the Field -->
 
 As I applied these approaches to research, I contributed to peer reviewed publications accounting:
 

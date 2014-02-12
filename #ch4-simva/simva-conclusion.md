@@ -1,6 +1,4 @@
-### Results and Impact
+## 4.3 Conlusion
 
-### How this relates back to main theme
-
-Focus on Wnt pathway was natural constraint.
+We learned some interesting things about simvastatin.
 
