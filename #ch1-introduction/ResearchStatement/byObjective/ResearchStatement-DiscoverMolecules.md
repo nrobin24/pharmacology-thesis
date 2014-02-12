@@ -1,24 +1,6 @@
-<!--        Clearly state OBJECTIVE -->
-An aim of my work was to discover molecular regulators of key signaling events with applications to both basic research and clinical drug development.
+To aid in my overall goal, I looked to discover small molecule regulators of the Wnt/ß-catenin pathway. I was particularly interested in small molecules because of their applicability to both basic research and clinical drug development. As opposed to genetic approaches such as siRNAs and shRNAs to induce a gain or loss of function in cell signaling, small molecules can be included in an experimental paradigm with relatively little overhead and higher relative predicability of effect [CITATION]. This effect carries over when administering small molecules to animals, which tends to be more efficacious than genetic materials. This can be due to cell permeability and bioavailability [CITATION]. Finally, small molecules have a long proven track record in treating human diseases.
 
-<!--    Why is OBJECTIVE worth focusing on -->
-This feeds into both of the other objectives. 
+Consistent with my overall goals, small molecules are available in the form of arrayed libraries. This is important in that it allows for high-throughput screens to be performed by automated equipment, rather than being tested individually by hand. These contents of the libraries can be produced from curated lists, such as the library of human experienced compounds in the riluzole in simvastatin papers. Libraries can also be produced combinatorially around a scaffold in order to target a specific motif such as the ATP binding bocket. This type of library is seen in the Wiki paper and also in the JW screen.
 
-Small molecules have a track record of succesful therapeutics.
-
-<!-- Where is the field at in terms of accomplishing OBJECTIVE -->
-Lots of small molecule high throughput screening. 
-
-<!-- What unique hurdles does OBJECTIVE present -->
-Assays aren't expressive enough to capture complex phenotypes.
-
-It's hard to screen in disease relevant contexts.
-
-Hits in primary screen rarely make it through validation in disease models.
-
-<!-- How does my approach attempt to address hurdles -->
-Libraries of known bioactive compounds. Focus on repurposing FDA approved drugs.
-
-<!-- What is my unique contribution to the field in attempting to accomplish OBJECTIVE -->
-
+Finally, I prioritized the discovery of small molecule regulators of Wnt/ß-Catenin signaling because the small molecules that I reported on served as deliverables in and of themselves alongside the journal articles. This means that future projects have a reliable physical starting place from which to conduct experiments. The molecules I report on are commercially available, and in some cases are already approved for human use. This means that the time it takes for another group to begin experiments based off of my findings will be minimized, and ongoing studies of these molecules such as in clinical trials will be able to draw inference from my projects.
 
