@@ -1,4 +1,4 @@
-## Outline of Chapter5-Conclusion
+## Chapter Outline of Conclusion
 
 ### Conclusions by Article (with respect to sub-fields)
 
