@@ -1,16 +1,11 @@
 <!--        Clearly state OBJECTIVE -->
-My work was aimed at discovering molecular regulators of key signaling events with applications to both basic research and clinical drug development.
+My work was aimed at identifing opportunites where perturbation of cell signaling in stem and progenitor cells may inform the development of a rational therapeutic.
 
 <!--    Why is OBJECTIVE worth focusing on -->
-This feeds into both of the other objectives. 
-
-Small molecules have a track record of succesful therapeutics.
 
 <!-- Where is the field at in terms of accomplishing OBJECTIVE -->
-Lots of small molecule high throughput screening. 
 
 <!-- What unique hurdles does OBJECTIVE present -->
-Assays aren't expressive enough.
 
 <!-- What is my unique contribution to the field in attempting to accomplish OBJECTIVE -->
 
