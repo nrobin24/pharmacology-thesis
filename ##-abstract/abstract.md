@@ -1,6 +1,3 @@
-Abstract
-========
-
 Statement of problem to be addressed
 ------------------------------------
 
