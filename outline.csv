@@ -1,12 +1,12 @@
 #ch0/abstract.md
 #ch0/toc.md
+#ch0/abbreviations.md
 #ch0/preface.md
 #ch1-introduction/header.md
 #ch1-introduction/background/header.md
-#ch1-introduction/background/bkgnd-therapeutics.md
-#ch1-introduction/background/bkgnd-stemcells.md
-#ch1-introduction/background/bkgnd-wnt.md
-#ch1-introduction/background/bkgnd-pharma.md
+#ch1-introduction/background/bkgnd-StemCellTherapies.md
+#ch1-introduction/background/bkgnd-WntStemCells.md
+#ch1-introduction/background/bkgnd-PharmaWnt.md
 #ch1-introduction/approach/header.md
 #ch1-introduction/approach/appr-DiscoverMolecules.md
 #ch1-introduction/approach/appr-LearnMechanism.md

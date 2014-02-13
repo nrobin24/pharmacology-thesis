@@ -1,14 +1,14 @@
 
 # Table of Contents
 
-* i - Preface
-* ii - Acknowledgements
+* i - List of Abbreviations
+* ii - Preface
+* iii - Acknowledgements
 * 1 - Introduction
     * 1.1 - Background
-        * 1.1.1 - Therapeutics
-        * 1.1.2 - Stem Cell
-        * 1.1.3 - Wnt/ß-Catenin Signaling
-        * 1.1.4 - Pharmacologic regulators of Wnt/ß-Catenin signaling
+        * 1.1.1 - Stem Cell targeted Therapies
+        * 1.1.2 - Wnt/ß-Catenin Signaling in Stem Cells
+        * 1.1.3 - Pharmacologic regulators of Wnt/ß-Catenin 
     * 1.2 Approach
         * 1.2.1 - Discovering Small Molecule Regulators of Cell Signaling
         * 1.2.2 - Understanding Biological Mechanisms through Cell Signaling Events

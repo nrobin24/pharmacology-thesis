@@ -6,3 +6,5 @@ The projects that I participated in attempted to further our understanding of  c
 I chose to focus on Wnt/ß-catenin signaling in part because of its established role in diseases including melanoma and various neurodegenerative disorders. This helped to guide the direction in which I proceeded through projects, as I was able to place my experimental results within context of the body of knowledge about the specific disease.
 
 In spite of what is known about how misregulated Wnt/ß-catenin signaling can precipitate disease states, there are relatively few therapies targetting this signaling pathway. This served as another reason that I focused on this pathway.
+
+<!-- POTENTIAL LIMITATIONS -->
