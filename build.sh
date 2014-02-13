@@ -4,6 +4,6 @@ rm dist/build.docx
 rm dist/build.html
 
 python concat-from-outline.py
-pandoc dist/build.md -s -o dist/thesis.docx
-pandoc dist/build.md -s -o  dist/thesis.html
-pandoc dist/build.md -s -o  dist/auto_toc.html --toc
+pandoc -s -S --biblio biblio.bib --csl cell.csl dist/build.md -o dist/thesis.docx
+pandoc -s -S --biblio biblio.bib --csl cell.csl dist/build.md -o  dist/thesis.html
+pandoc dist/build.md -o  dist/auto_toc.html --toc

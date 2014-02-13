@@ -17,7 +17,7 @@ There was a lot to be gained by focusing on Wnt signaling
 
     We were able to cover a lot of ground in terms of interesting disease contexts, as this became our pivot point
 
-We delivered a number of molecules to the community
+We delivered a number of molecules to the community [@robin2014simvastatin]
     These can be used immediately by clinicians
     body of knowledge that can be applied to interpretation of patient data
 
