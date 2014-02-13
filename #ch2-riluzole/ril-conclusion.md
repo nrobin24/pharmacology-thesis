@@ -1,4 +1,4 @@
 
-## 2.3 - Conlusion
+## 2.3 - Conclusion
 
 We learned some interesting things about riluzole.

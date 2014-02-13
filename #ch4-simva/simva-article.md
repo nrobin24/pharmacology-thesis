@@ -36,7 +36,7 @@ We then investigated the effect of simva on aNPCs during differentiation. We ind
 
 In order to test whether the effect of simva on aNPC differentiation is due to enhanced Wnt signaling, we also tested simva in combination with a Wnt pathway antagonist. For this, we employed the small molecule XAV939. Importantly, XAV939 blocks simva-mediated enhancement of Wnt signaling in aNPCs (Figure S1 available online). We reasoned that if simva enhances neuronal differentiation via enhanced Wnt signaling, then a combination of XAV939 and simva should not elicit this effect.
 
-As expected, XAV939 treatment significantly decreased the number of neurons formed following aNPC differentiation. We found that in aNPCs treated concurrently with XAV939 and simva, the percentage of TUJ1+ cells was equivalent to DMSO-treated cells and significantly reduced as compared to cells treated with simva alone (Figures 2A and 2C). Additionally, levels of the neuronal genes Tuj1 and NeuroD1 were decreased with combined simva and XAV939 treatment compared with DMSO ( Figure 2D), while levels of the astrocytic genes Gfap and Aqp4 where not significantly changed ( Figure 2E). These data demonstrate that blocking Wnt signaling abolishes the ability of simva to enhance neuronal differentiation and suggest that this effect of simva is Wnt signaling-dependent.
+As expected, XAV939 treatment significantly decreased the number of neurons formed following aNPC differentiation. We found that in aNPCs treated concurrently with XAV939 and simva, the percentage of TUJ1+ cells was equivalent to DMSO-treated cells and significantly reduced as compared to cells treated with simva alone (Figures 2A and 2C). Additionally, levels of the neuronal genes Tuj1 and NeuroD1 were decreased with combined simva and XAV939 treatment compared with DMSO ( Figure 2D), while levels of the astrocytic genes Gfap and Aqp4 were not significantly changed ( Figure 2E). These data demonstrate that blocking Wnt signaling abolishes the ability of simva to enhance neuronal differentiation and suggest that this effect of simva is Wnt signaling-dependent.
 
 #### Simva Enhances Adult Hippocampal Neurogenesis
 
@@ -78,7 +78,7 @@ aNPCs were plated on polyornithine- (Sigma-Aldrich) and laminin-coated (Life Tec
 
 #### Mouse Experiments
 
-Eight- to 10-week-old C57BL/6J WT and BAT-GAL mice were used in this study. All animal-related procedures were approved by the Institutional Animal Care and Use Committee of the University of Washington and were conducted in accordance with the guidelines of the National Institutes of Heath. For oral gavage, simva was dissolved in DMSO and diluted in 1% carboxymethylcellulose (Sigma-Aldrich) in water. For EdU experiments, mice were injected intraperitoneally with 50 mg/kg EdU dissolved in DMSO. For details on tissue collection, see the Supplemental Experimental Procedures.
+Eight- to 10-week-old C57BL/6J WT and BAT-GAL mice were used in this study. All animal-related procedures were approved by the Institutional Animal Care and Use Committee of the University of Washington and were conducted in accordance with the guidelines of the National Institutes of Health. For oral gavage, simva was dissolved in DMSO and diluted in 1% carboxymethylcellulose (Sigma-Aldrich) in water. For EdU experiments, mice were injected intraperitoneally with 50 mg/kg EdU dissolved in DMSO. For details on tissue collection, see the Supplemental Experimental Procedures.
 
 #### aNPC Differentiation
 
