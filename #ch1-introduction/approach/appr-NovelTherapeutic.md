@@ -1,8 +1,9 @@
 
 ### 1.2.3 Exploiting Cell Signaling to Inform Novel Therapeutics
 
-<!--        Clearly state OBJECTIVE -->
 An aim of my work was to identify opportunites where perturbation of cell signaling in stem and progenitor cells may inform the development of a rational therapeutic.
+
+
 
 <!--    Why is OBJECTIVE worth focusing on -->
 Cell signaling governs stem cell behaviors. If we can give cells the correct signals, eg by small molecule inhibitors of protein kinases, metabolic enzymes, and GPCRs, we can control events that are desirable to control when desigining a therapeutic. This includes induction of programmed cell death in the case of melanoma cells, regulation of early differentiation in hESCs, and 
