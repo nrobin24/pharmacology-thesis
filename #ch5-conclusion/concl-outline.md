@@ -1,3 +1,4 @@
+
 ## Chapter Outline of Conclusion
 
 ### Conclusions by Article (with respect to sub-fields)
@@ -19,5 +20,3 @@
 ### Final Conclusion
 
 * How has my work moved the field forward, and where do we need to focus
-
-

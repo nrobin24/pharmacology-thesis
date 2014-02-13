@@ -1,3 +1,4 @@
+
 ## 2.2 - Journal Article
 
 ### 2.2.1 - Summary
@@ -98,4 +99,3 @@ A.J.C. was supported by the National Cancer Institute (K08CA128565) and R.T.M. b
 * Thomas, A.J., and Erickson, C.A. (2008). The making of a melanocyte: the specification of melanoblasts from the neural crest. Pigment Cell Melanoma Res 21, 598–610.
 
 * Yip, D., Le, M.N., Chan, J.L., Lee, J.H., Mehnert, J.A., Yudd, A., Kempf, J., Shih, W.J., Chen, S., and Goydos, J.S. (2009). A phase 0 trial of riluzole in patients with resectable stage III and IV melanoma. Clin. Cancer Res. 15, 3896–3902.
-

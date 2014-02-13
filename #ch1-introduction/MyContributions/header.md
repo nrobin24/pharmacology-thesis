@@ -1,2 +1,2 @@
-## 1.2 My Contributions to Included Published Works
 
+## 1.2 Personal Contributions to Included Publication

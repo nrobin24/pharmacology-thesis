@@ -1,4 +1,5 @@
-### 1.1.3 Exploiting Cell Signaling to Inform Novel Therapeutics
+
+### 1.2.3 Exploiting Cell Signaling to Inform Novel Therapeutics
 
 <!--        Clearly state OBJECTIVE -->
 An aim of my work was to identify opportunites where perturbation of cell signaling in stem and progenitor cells may inform the development of a rational therapeutic.
@@ -21,5 +22,3 @@ However, the opportunities siezed on to become therapeutics are relatively few a
 <!-- How does my approach attempt to address hurdles -->
 
 <!-- What is my unique contribution to the field in attempting to accomplish OBJECTIVE -->
-
-

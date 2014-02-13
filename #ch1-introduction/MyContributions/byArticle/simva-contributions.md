@@ -7,4 +7,3 @@ I did this entire project myself, basically.
 * I treated mice with simvastatin and observed an increased number of batgal positive cells in the DG
 * I looked at cell type specific markers in the DG and saw that simvastatin treatment enhances adult neurogenesis
 * I treated reporter cells with various metabolites from the HMGCR pathway and determined that simvastatin enhances WNT signaling by depleting isoprenoids
-
