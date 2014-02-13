@@ -13,7 +13,7 @@
         * 1.2.1 - Discovering Small Molecule Regulators of Cell Signaling
         * 1.2.2 - Understaning Biological Mechanisms through Cell Signaling Events
         * 1.2.3 - Exploiting Cell Signaling to Inform Novel Therapeutics
-    * 1.3 - Personal Contributions to Included Publication
+    * 1.3 - Contribution to Published Works
         * 1.3.1 - Biechele et. al, 2010
 * 2 - Chemical-genetic screen identifies riluzole as an enhancer of Wnt/β-catenin signaling in melanoma
     * 2.1 - Introduction

@@ -1,3 +1,5 @@
+### 1.3.3 - Biechele et. al, 2014
+
 I did this entire project myself, basically.
 
 * I identified that statins would be an interesting hit to follow up on from the small molecule screen

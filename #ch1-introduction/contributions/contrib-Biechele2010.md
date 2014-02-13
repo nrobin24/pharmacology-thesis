@@ -1,5 +1,5 @@
 
-### 1.2.1 - Biechele et. al, 2010
+### 1.3.1 - Biechele et. al, 2010
 
 * developed plan to connect and process data
 - aimed at maximizing our effectiveness in prioritizing hits

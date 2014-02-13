@@ -1,3 +1,6 @@
+
+### 1.3.2 - James et. al, 2012
+
 I helped design the high throughput screen for WIKI
 
 I helped run followup assays in H1s

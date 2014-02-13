@@ -1,4 +1,8 @@
 
+[Ril-Figure1]: figures/ril-fig1.jpg  "Figure 1"
+[Ril-Figure2]: figures/ril-fig2.jpg  "Figure 2"
+[Ril-Figure3]: figures/ril-fig3.jpg  "Figure 3"
+
 ## 2.2 - Journal Article
 
 ### 2.2.1 - Summary
@@ -21,10 +25,6 @@ Wnt/β-catenin signaling is a major regulator of melanocyte differentiation (Tho
 In the present study, we used a cell-based screen to identify several small molecule enhancers of Wnt/β-catenin signaling. We focused on one enhancer compound, riluzole, an FDA approved therapeutic for amyotrophic lateral sclerosis that is under investigation in clinical trials as a melanoma therapy (Yip et al., 2009).
 
 ### 2.2.4 - Results and Discussion
-
-[Ril-Figure1]: figures/ril-fig1.jpg  "Figure 1"
-[Ril-Figure2]: figures/ril-fig2.jpg  "Figure 2"
-[Ril-Figure3]: figures/ril-fig3.jpg  "Figure 3"
 
 Using the β-catenin-activated luciferase reporter (BAR) (Biechele and Moon, 2008) (see Figure S1A available online) in a cell-based assay, we screened for small molecules that enhance the activation of the reporter by exogenous WNT3A (Figure 1 inset). We optimized the WNT3A stimulus to obtain an EC20 (Figure S1B) in HT22 neuronal cells and screened a library of 1857 human experienced chemicals (1500 unique). We identified 47 (44 unique) chemicals that enhanced the WNT3A stimulus greater than 1.5-fold (Figure 1A; Supplemental Database), several of which displayed a dose-dependent enhancement of Wnt/β-catenin signaling upon rescreening (Figures S1C and S1E).
 
