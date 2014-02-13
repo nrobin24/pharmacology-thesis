@@ -1,4 +1,5 @@
-### 1.3.3 - Biechele et. al, 2014
+
+### 1.3.3 - Robin et. al, 2014
 
 I did this entire project myself, basically.
 
