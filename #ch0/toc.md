@@ -49,3 +49,7 @@
         * 4.2.6 - References
     * 4.3 - Conclusion
 * 5 - Conclusion
+    * 5.1 - Summary of Results
+    * 5.2 - Successes
+    * 5.3  - Shortcomings
+    * 5.4 - Suggestions for future work

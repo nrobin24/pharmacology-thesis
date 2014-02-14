@@ -1,4 +1,4 @@
 
 ## 4.1 - Introduction
 
-I was an author on a paper about simvastatin.
+This will be the introduction for the simvastatin paper.

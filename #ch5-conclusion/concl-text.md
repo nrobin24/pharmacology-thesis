@@ -1,16 +1,14 @@
 
+### 5.1 - Summary of Results
 
+The journal articles covered in this thesis are connected in their approach and goals. Projects began with a high-throughput screen to discover molecules that regulate Wnt/ß-catenin signaling in decidedly interesting contexts. The molecules with the greatest activity in the screen are chosen as hits, and are fed into a pipeline of filtering and validation steps. Finally, I characterized the activity of the most promising molecules in a series of cell culture, animal, and disease models.
 
-The concluding chapter should show clearly how the preceding chapters form 
-a coherent substantial body of work and how significantly this body of work advances our knowledge.
+From project to project, this was iteratively improved upon. I looked to maximize the amount of usable information gathered, and to optimize relevance to disease using experimental models. In efforts to drive discovery, I tested and honed a set of methodologies that can be used to perform automated and high-throughput experiments in stem and progenitor cells. To direct discovery towards clinical relevance, I designed and iterated upon a pipeline to perform primary data filtering, secondary validation, and ultimately to test discoveries in clinically relevant disease models.
 
-#### Summarize overall results
+<!-- How does this significantly advance knowledge -->
+My contribution of original knowledge in this area is the discovery of various molecules that can be used to manipulate Wnt/ß-Catenin signaling. This includes repurposed clinically-approved compounds that were not previously known to affect Wnt, and novel compounds whose biological mechanisms were later determined. In addition I was able to develop novel methods for conducting large scale screens and for performing automated experiments with stem and progenitor cells.
 
-I chose to frame my work on cell signaling pathways based on recent work.
-
-My contribution of original knowledge in this area is the discovery of various molecules that can be used to manipulate Wnt/ß-Catenin signaling. This includes repurposed clinically-approved compounds that were not previously known to affect Wnt, and novel compounds whose biological mechanisms were later determined. 
-
-#### Successes
+### 5.2 - Successes
 
 There was a lot to be gained by focusing on Wnt signaling
     We had a great reporter system that could reliably be used for high throughput screening, also other reagents like antibodies, and most importantly expertise of peers in academic lab environment
@@ -28,11 +26,10 @@ We prototyped a system for HTS that worked in diverse cell types
     
 
 
-#### Shortcomings
+### 5.3  - Shortcomings
 
 Possible shortcoming: block one pathway and cancer will find a way around it
-NATURE REVIEWS CLINICAL ONCOLOGY | EDITORIAL
-Predicting cancer's next move
+[CITE NATURE REVIEWS CLINICAL ONCOLOGY Predicting cancer's next move]
 
 While at times the self imposed filter of small molecules was helpful, it also restricted the possible solutions that could be found for a problem
 
@@ -44,7 +41,7 @@ Although I gave some attempt at using genetic and proteomic approaches, these di
 
 Despite the effort put forth to do HTS in stem cells, we did not identify anything unique to stem cells when we did these screens. Wiki works in other cell types, as do the peptide mimetics that I identified. We hoped to learn about a possible interaction between CTNNB1 and OCT4, but only in traditional low-throughput experiments was our lab able to address these questions. The mistake here was to perform a wholistic discovery experiment with an anticipated result in mind -- these two approaches are not compatible.
 
-#### Suggestions for future work
+### 5.4 - Suggestions for future work
 
 Determine whether wnt enhancement can truly overcome vemurafinib resistance
 

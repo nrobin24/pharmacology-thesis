@@ -5,6 +5,8 @@
 
 ## 2.2 - Journal Article
 
+(NOTE: Sections 2.2.1 - 2.2.8 are reproduced from previously published work, under fair use as stated in the Publisher's Copyright agreement)
+
 ### 2.2.1 - Summary
 
 To identify new protein and pharmacological regulators of Wnt/β-catenin signaling, we used a cell-based reporter assay to screen a collection of 1857 human-experienced compounds for their ability to enhance activation of the β-catenin reporter by a low concentration of WNT3A. This identified 44 unique compounds, including the FDA-approved drug riluzole, which is presently in clinical trials for treating melanoma. We found that treating melanoma cells with riluzole in vitro enhances the ability of WNT3A to regulate gene expression, to promote pigmentation, and to decrease cell proliferation. Furthermore riluzole, like WNT3A, decreases metastases in a mouse melanoma model. Interestingly, siRNAs targeting the metabotropic glutamate receptor, GRM1, a reported indirect target of riluzole, enhance β-catenin signaling. The unexpected regulation of β-catenin signaling by both riluzole and GRM1 has implications for the future uses of this drug.

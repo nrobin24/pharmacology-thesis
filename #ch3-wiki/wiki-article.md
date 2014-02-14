@@ -6,6 +6,8 @@
 
 ## 3.2 - Journal Article
 
+(NOTE: Sections 3.2.1 - 3.2.5 are reproduced from previously published work, under fair use as stated in the Publisher's Copyright agreement)
+
 ### 3.2.1 - Abstract
 
 The Wnt/ß-catenin signaling pathway controls important cellular events during development and often contributes to disease when dysregulated. Using high throughput screening we have identified a new small molecule inhibitor of Wnt/ß-catenin signaling, WIKI4. WIKI4 inhibits expression of ß-catenin target genes and cellular responses to Wnt/ß-catenin signaling in cancer cell lines as well as in human embryonic stem cells. Furthermore, we demonstrate that WIKI4 mediates its effects on Wnt/ß-catenin signaling by inhibiting the enzymatic activity of TNKS2, a regulator of AXIN ubiquitylation and degradation. While TNKS has previously been shown to be the target of small molecule inhibitors of Wnt/ß-catenin signaling, WIKI4 is structurally distinct from previously identified TNKS inhibitors.

@@ -6,6 +6,8 @@
 
 ## 4.2 - Journal Article
 
+(NOTE: Sections 4.2.1 - 4.2.6 are reproduced from previously published work, under fair use as stated in the Publisher's Copyright agreement)
+
 ### 4.2.1 - Summary
 Statins improve recovery from traumatic brain injury and show promise in preventing Alzheimer disease. However, the mechanisms by which statins may be therapeutic for neurological conditions are not fully understood. In this study, we present the initial evidence that oral administration of simvastatin in mice enhances Wnt signaling in vivo. Concomitantly, simvastatin enhances neurogenesis in cultured adult neural progenitor cells as well as in the dentate gyrus of adult mice. Finally, we find that statins enhance Wnt signaling through regulation of isoprenoid synthesis and not through cholesterol. These findings provide direct evidence that Wnt signaling is enhanced in vivo by simvastatin and that this elevation of Wnt signaling is required for the neurogenic effects of simvastatin. Collectively, these data add to the growing body of evidence that statins may have therapeutic value for treating certain neurological disorders.
 

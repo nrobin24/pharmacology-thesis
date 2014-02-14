@@ -1,8 +1,6 @@
 
 ### 1.3.3 - Robin et. al, 2014
 
-I did this entire project myself, basically.
-
 * I identified that statins would be an interesting hit to follow up on from the small molecule screen
 * I generated a reporter cell line from primary aNPCs, and validated simvastatin in this line
 * I ran RT-PCR as a secondary confirmation that simvastatin enhances WNt
