@@ -11,7 +11,7 @@ Additionally, the field possesses an increasingly rich understanding of how stem
 
 #### Cancer Stem Cells
 
-The 'cancer stem cell' hypothesis holds that the same pathways regulate self-renewal in stem cells and cancer cells, and that there are stem cells within the tumor that posess indefinite potential for self-renewal. [Tannishtha Reya. Nature 2001]
+The 'cancer stem cell' hypothesis holds that the same pathways regulate self-renewal in stem cells and cancer cells, and that there are stem cells within the tumor that possess indefinite potential for self-renewal. [Tannishtha Reya. Nature 2001]
 
 #### Ex-Vivo Directed Differentiation
 
