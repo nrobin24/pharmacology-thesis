@@ -1,9 +1,15 @@
 
 ## 2.3 - Conclusion
 
+
+We succesfully followed the pattern from hit to lead.
+
+There was a high level of attrition along the way and a lot of work that went into validating compounds that did not make the final cut. It's unclear whether this is an ideal situation in an academic lab. Whereas in a 
 <!-- summary of results, what did we learn -->
 
 <!-- how did the results relate to discovering molecules -->
+
+We did not come away with a clear understanding of the mechanism of how GRM1 receptor feeds back into Wnt signaling.
 
 <!-- how did the results relate to learning mechanisms -->
 
