@@ -27,7 +27,9 @@ In melanoma, as opposed to colorectal cancer, a high level of Wnt signaling was 
 
 A more thorough explanation of Wnt in melanoma is given in chapter 2 of this thesis.
 
-### 1.1.4 - Wnt in hESCs
+### 1.1.4 - Wnt in cultured hESCs
+
+Given its role
 
 There is a controversy as to the specific role of canonical signaling.
 
@@ -73,13 +75,16 @@ Chapters 2-4 of this manuscript each discuss pharmacologic regulators of the Wnt
 
 In the research presented in chapters 2-4, I looked to discover small molecule regulators of the Wnt/ß-catenin pathway. I was particularly interested in small molecules because of their applicability to both basic research and clinical drug development. As opposed to genetic approaches such as siRNAs and shRNAs to induce a gain or loss of function in cell signaling, small molecules can be included in an experimental paradigm with relatively little overhead and higher relative predictability of effect [@Weiss_2007]. This effect carries over when administering small molecules to animals, which tends to be more efficacious than genetic materials. Although delivery of RNAi molecules in vivo is possible, studies employing this method have relied upon sophisticated techniques and instrumentation [@Beronja_2010]. Finally, small molecules have a long proven track record in treating human diseases.
 
-Consistent with my overall goals, small molecules are available in the form of arrayed libraries. This is important in that it allows for high-throughput screens to be performed by automated equipment, rather than being tested individually by hand. These contents of the libraries can be produced from curated lists, such as the library of human experienced compounds in the riluzole in simvastatin papers. Libraries can also be produced combinatorially around a scaffold in order to target a specific motif such as the ATP binding pocket. This type of library is seen in the Wiki paper and also in the JW screen.
+Consistent with my overall goals, small molecules are highly amenable to discovery via automation. The use of arrayed libraries in microplates allows for high-throughput screens to be performed by automated equipment, rather than being tested individually by hand. These contents of the libraries can be produced from curated lists, such as the library of human experienced compounds in the riluzole in simvastatin papers. Libraries can also be produced combinatorially around a scaffold or particular pharmacophore.
 
-Finally, I prioritized the discovery of small molecule regulators of Wnt/ß-Catenin signaling because the small molecules that I reported on served as deliverables in and of themselves alongside the journal articles. This means that future projects have a reliable physical starting place from which to conduct experiments. The molecules I report on are commercially available, and in some cases are already approved for human use. This means that the time it takes for another group to begin experiments based off of my findings will be minimized, and ongoing studies of these molecules such as in clinical trials will be able to draw inference from my projects.
+Another reason that I prioritized the discovery of small molecule regulators of Wnt/ß-Catenin signaling is that the small molecules that I reported on serve as deliverables in and of themselves alongside the journal articles. This means that future projects have a reliable physical starting place from which to conduct experiments. The molecules discussed in these works are commercially available, and in some cases are already approved for human use. This means that the time it takes for another group to begin experiments based off of my findings will be minimized, and ongoing studies of these molecules such as in clinical trials will be able to draw inference from my projects.
 
 ### 1.2.2 Understanding Biological Mechanisms through Cell Signaling Events
 
-The projects that I participated in attempted to further our understanding of  cell behavior. In each case I used Wnt/ß-Catenin signaling as an entry point from which to address biological mechanisms that govern behavior. This entailed selectively monitoring and perturbing Wnt signaling. I monitored Wnt signaling while using established methods to perturb other pathways, in order to find where multiple pathways may cross-talk with one another. To determine the role of Wnt in homeostatic and disease processes, I perturbed Wnt signaling while monitoring behaviors such as cell death, proliferation, induction of differentiation, and lineage specification.
+The projects that I participated in attempted to further our understanding of the mechanisms of cell signaling. In each case I used Wnt/ß-Catenin signaling as an entry point from which to address biological mechanisms that govern behavior. This entailed selectively monitoring and perturbing Wnt signaling. In order to monitor the pathway I made user of genetic reporter constructs whose expression are driven by nuclear ß-Catenin, including pBAR in cultured cells [@Biechele_2008] and BAT-GAL in mice [@Maretto_2003]. 
+
+
+I monitored Wnt signaling while using established methods to perturb other pathways, in order to find where multiple pathways may cross-talk with one another. To determine the role of Wnt in homeostatic and disease processes, I perturbed Wnt signaling while monitoring behaviors such as cell death, proliferation, induction of differentiation, and lineage specification.
 
 I chose to focus on Wnt/ß-catenin signaling in part because of its established role in diseases including melanoma and various neurodegenerative disorders. This helped to guide the direction in which I proceeded through projects, as I was able to place my experimental results within context of the body of knowledge about the specific disease.
 

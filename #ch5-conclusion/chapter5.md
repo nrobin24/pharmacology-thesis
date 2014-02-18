@@ -1,23 +1,21 @@
 
 # 5 - Conclusion
 
-### 5.1 - Summary of Results
+## 5.1 - Summary of Results
 
 The journal articles covered in this thesis are connected in their approach and goals. Projects began with a high-throughput screen to discover molecules that regulate Wnt/ß-catenin signaling in decidedly interesting contexts. The molecules with the greatest activity in the screen were chosen as hits, and were fed into a pipeline of filtering and validation steps. Finally, the activity of the most promising molecules was characterized in a series of cell culture, animal, and disease models. From project to project, this was pattern iteratively improved upon. I looked to maximize the amount of usable information gathered, and to optimize relevance to disease using experimental models.
 
 My contribution of original knowledge in the field of tranlational stem cell biology is the discovery of various molecules that can be used to manipulate Wnt/ß-Catenin signaling. This includes repurposed clinically-approved compounds that were not previously known to affect Wnt, and novel compounds whose biological mechanisms were later determined. In addition I developed methods that can be used for conducting large scale screens and for performing automated experiments with stem and progenitor cells.
 
-### 5.2 - Successes 
+## 5.2 - Successes 
 
 The central theme of the Moon Lab is Wnt signaling. This influenced the direction of my research such as in deciding which primary screen hits I deemed most interesting for follow up, and which types of libraries to screen. I found that throughout the course of my research, there was a significant benefit to my progress by focusing specifically on Wnt signaling. There was a synergistic effect of having, in house, a well curated set of reagents and a wealth of human expertise on the subject of Wnt signaling. Notably, I was able to use the BAR construct as a first line of discovery in a diverse set of contexts. 
 
 The focus on discovery of small molecules means that alongside each publication presented in this thesis there is a tangible molecular entity. The small molecules that we reported on reliably elicit an effect, are widely available, and are relatively inexpensive. In the case of WIKI4, where we identified a Wnt inhibitor from among a large set of novel compounds, this molecule is now commercially available alongside other Wnt inhibitors [Tocris Link]. As such, researchers looking to reproduce or build upon our findings will not have to rely upon proprietary formulations or methodologies. Futher, clinicians investigating the therapeutic effects of the human experienced drugs that we investigated may be able to contextualize findings with the biological mechanisms that we reported. These, in sum, bolster the impact of the projects that I worked on.
 
 We prototyped a system for HTS that worked in diverse cell types
-    
 
-
-### 5.3  - Shortcomings
+## 5.3  - Shortcomings
 
 Aside from the benefits discussed above, chosing to investigate biological mechanisms and disease through the lens of a single signaling pathway imposes some difficulties in research. It is common that mechanisms contributing to the pathology of a disease span indiscriminately across signaling pathways. We found this to be the case in our investigation of melanoma, presented in chapter 2 of this thesis and in follow up studies, where ERK signaling and Wnt signaling both play crucial roles in cell proliferation and survival. 
 
@@ -34,7 +32,7 @@ Although I gave some attempt at using genetic and proteomic approaches, these di
 
 Despite the effort put forth to do HTS in stem cells, we did not identify anything unique to stem cells when we did these screens. Wiki works in other cell types, as do the peptide mimetics that I identified. We hoped to learn about a possible interaction between CTNNB1 and OCT4, but only in traditional low-throughput experiments was our lab able to address these questions. The mistake here was to perform a holistic discovery experiment with an anticipated result in mind -- these two approaches are not compatible.
 
-### 5.4 - Suggestions for future work
+## 5.4 - Suggestions for future work
 
 Determine whether wnt enhancement can truly overcome vemurafenib resistance
 
@@ -42,6 +40,22 @@ Closely follow clinical paradigms -- if something aside from small molecules com
 
 Prioritize performing experiments from different domains in tandem. In order to build a strong case that a certain signaling event occurs, I found that it is not only necessary to use small molecule perturbation but also through genetic means such as siRNA.
 
+### 5.4.1 - Increased emphasis on in vivo disease models
 
+This is hard because it requires specialists, but ultimately yields the highest impact and most clinically relevant findings. While discovering novel biology is interesting in its own right, if we stick to disease models then we will increase the rate at which critical new therapies are made.
+
+### 5.4.2 - Move beyond the pathway paradigm
+
+In the past we aknowledged the phenomenon of cross talk, but this should be considered the norm. Signaling pathways were discovered based on their ability to produce visible morphological phenotypes in model organisms. The knowledge that we have acquired about how signaling molecules act upon one another is still extremely valuable, but we should view the system as an interconnected network rather than a series of pathways.
+
+This is already happening, see systems biology and various omics fields. Approaches like ARACHNE attempt to reverse engineer transcription factors.
+
+Cancer research has shown that thinking strictly by pathway is not helpful when developing therapeutics. Cancers will find a way around road blocks, and inhbitors are not as specific as we thought they were.
+
+### 5.4.3 - Develop Appropriate Channels of Collaboraton for Automated Discovery
+
+Academic labs would benefit from the ability to quickly share assays, protocol, and libraries.
+
+Each of these things requires a special set of skills: development of disease assay, miniaturization, scale up, data analysis, manual validation of hits. It is difficult for a single academic lab to gather this mix of people. It's particularly hard to connect those on the forefront of disease biology and those who have technical skills needed for automation. The current journal publication and authorship model does not offer the correct set of incentives for these wide collaborations.
 
 Continue to hone in vivo disease models. Academic labs should copy the model of how biotech companies function. They should establish channels for collaboration between discovery oriented groups, and groups 
