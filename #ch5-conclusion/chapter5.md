@@ -19,7 +19,7 @@ We prototyped a system for HTS that worked in diverse cell types
 
 ### 5.3  - Shortcomings
 
-Aside from the benefits discussed above, chosing to investigate biological mechanisms and disease through the lens of a single signaling pathway imposes some difficulties in research. It is common that mechanisms contributing to the pathology of a disease span indiscriminately across signaling pathways. We found this to be the case in our investigation of melanoma, presented in this thesis and in follow up studies, where ERK signaling and Wnt signaling both play crucial roles in cell proliferation and survival. 
+Aside from the benefits discussed above, chosing to investigate biological mechanisms and disease through the lens of a single signaling pathway imposes some difficulties in research. It is common that mechanisms contributing to the pathology of a disease span indiscriminately across signaling pathways. We found this to be the case in our investigation of melanoma, presented in chapter 2 of this thesis and in follow up studies, where ERK signaling and Wnt signaling both play crucial roles in cell proliferation and survival. 
 
 Possible shortcoming: block one pathway and cancer will find a way around it
 [CITE NATURE REVIEWS CLINICAL ONCOLOGY Predicting cancer's next move]

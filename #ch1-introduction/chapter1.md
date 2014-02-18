@@ -21,11 +21,11 @@ Wnts are a family of secreted glycoproteins that act as ligands for Fzd transmem
 
 ### 1.1.3 - Wnt in Cancer Tumorigenesis
 
-Misregulation of the Wnt pathway has been linked to the formation of various types of tumors. The most well studied example of this is in colorectal cancer is linked to activating APC mutations.
+Misregulation of the Wnt pathway has been linked to the formation of various types of tumors. A well studied example of this is in colorectal cancer, where mutations in the gene _APC_ are the most frequent cause [@Clevers_1997]. APC is one of the proteins responsible for degrading ß-Catenin when the pathway is not active. When APC cannot function there is an abnormally high level of Wnt signaling that causes overexpression of growth promoting genes [@Najdi_2011]. Mutations in other core Wnt pathay genes _AXIN1_, _CTNNB1_, and _TCF7L2_ have been linked to tumor formation [@Anastas_2013]. Abberations in Wnt signaling have been identified as contributing to pancreatic, mammary, ovarian, and skin cancers.
 
-Different tumors have found to have Wnt signaling component.  Melanoma through XXX. Breast cancer thru XXX. Willms tumor is linked to WTX. Glioblastoma is linked through ??. Also renal cell, non small cell lung cancer, ec.
+In melanoma, as opposed to colorectal cancer, a high level of Wnt signaling was found to correlate with improved patient survival [@chien2009activated]. Melanoma tumors are commonly caused by mutations in the ERK signaling pathway, the most frequently observed being BRAF V600E mutation. It was discovered that Wnt has a high level of crosstalk with hyperactivated ERK signaling in melanoma cells [Biechele BRAF paper]. It should also be noted that the benefits of high Wnt in melanoma may be time and tumor type dependent [PTEN mouse paper].
 
-It is not always over-activation that causes cancer. In melanoma patients activating the pathway is beneficial. Altho this may be time dependent.
+A more thorough explanation of Wnt in melanoma is given in chapter 2 of this thesis.
 
 ### 1.1.4 - Wnt in hESCs
 
@@ -41,6 +41,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/22990866
 
 Also Ex-Vivo Directed Differentiation
 
+The effects of Wnt signaling on hESC differentiation is discussed in chapter 3 of this thesis.
+
 ### 1.1.5 - Wnt in Adult Neurogenesis
 
 It was discovered in X that there are populations of adult neural progenitor cells that reside in the brain and contribute new functioning neurons throughout adulthood. Wnt was discovered to be a key regulator of adult neurogenesis by Fred Gage's lab.
@@ -50,6 +52,8 @@ Secreted negative regulators of Wnt signaling increase throughout adulthood, and
 Mutations in genes that regulate  Wnt signaling in the brain (DISC1, DIXDC1) are linked with schizophrenia and major depression.
 
 Thorough discussion can be found in simvastatin paper
+
+A more detailed account of Wnt in adult neurogenesis is presented in chapter 4 of this thesis.
 
 ### 1.1.6 - Pharmacologic regulators of Wnt/ß-Catenin signaling
 
@@ -61,11 +65,13 @@ Difficulties include: progenitor cell populations like in the intestine and in g
 
 There are now multiple compounds under pre-clinical investigation.
 
+Chapters 2-4 of this manuscript each discuss pharmacologic regulators of the Wnt pathway.
+
 ## 1.2 Approach
 
 ### 1.2.1 Discovering Small Molecule Regulators of Wnt/ß-Catenin Signaling
 
-In the research presented, I looked to discover small molecule regulators of the Wnt/ß-catenin pathway. I was particularly interested in small molecules because of their applicability to both basic research and clinical drug development. As opposed to genetic approaches such as siRNAs and shRNAs to induce a gain or loss of function in cell signaling, small molecules can be included in an experimental paradigm with relatively little overhead and higher relative predictability of effect [CITATION]. This effect carries over when administering small molecules to animals, which tends to be more efficacious than genetic materials. This can be due to cell permeability and bioavailability [CITATION]. Finally, small molecules have a long proven track record in treating human diseases.
+In the research presented in chapters 2-4, I looked to discover small molecule regulators of the Wnt/ß-catenin pathway. I was particularly interested in small molecules because of their applicability to both basic research and clinical drug development. As opposed to genetic approaches such as siRNAs and shRNAs to induce a gain or loss of function in cell signaling, small molecules can be included in an experimental paradigm with relatively little overhead and higher relative predictability of effect [@Weiss_2007]. This effect carries over when administering small molecules to animals, which tends to be more efficacious than genetic materials. Although delivery of RNAi molecules in vivo is possible, studies employing this method have relied upon sophisticated techniques and instrumentation [@Beronja_2010]. Finally, small molecules have a long proven track record in treating human diseases.
 
 Consistent with my overall goals, small molecules are available in the form of arrayed libraries. This is important in that it allows for high-throughput screens to be performed by automated equipment, rather than being tested individually by hand. These contents of the libraries can be produced from curated lists, such as the library of human experienced compounds in the riluzole in simvastatin papers. Libraries can also be produced combinatorially around a scaffold in order to target a specific motif such as the ATP binding pocket. This type of library is seen in the Wiki paper and also in the JW screen.
 
