@@ -10,7 +10,12 @@ The library of molecules used in the screen performed at the Broad Institute inc
 <!-- the problem that I needed to address -->
 While the Broad Institute provided the facilities for Biechele and Camp to conduct the physical screen, the Moon lab was left to its own devices in analyzing of the resultant data. To proceed ahead with the project we needed to formulate a plan for hit prioritization, and secondary follow up validation. A majority of my work on this project was focused on these tasks. In particular, I was interested in combining statistical and bioinformatic approaches in order to make an informed decision about where to focus research energy. 
 
-To do this I wrote MATLAB scripts to compute statistical scores that are appropriate when considering large datasets. I incorporated categorical variables into the sorting and filtering process such as the drugs approval status across government agencies. I also attached semantic data, mined from publicly available databases like Drugbank [@Drugbank_2006] and STITCH [@STITCH_2008], about the known targets and mechanisms of hit compounds. Ultimately we decided to pursue riluzole as the primary target of our inquiry based on a combination of these factos.
+To do this I wrote MATLAB scripts to compute statistical scores that are appropriate when considering large datasets. I incorporated categorical variables into the sorting and filtering process such as the drugs approval status across government agencies. I also attached semantic data, mined from publicly available databases like Drugbank [@Drugbank_2006] and STITCH [@STITCH_2008], about the known targets and mechanisms of hit compounds.
+
+Once we had filtered and sorted the hit list we began to perform secondary validation steps. I formed 
+
+
+Ultimately we decided to pursue riluzole as the primary target of our inquiry based on a combination of these factors.
 
 
  We sought to prioritize these processes based upon the goal of identifying compounds that enhance Wnt/ß-Catenin signaling and which may be of therapeutic value in treating melanoma.

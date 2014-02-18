@@ -47,19 +47,29 @@ The effects of Wnt signaling on hESC differentiation is discussed in chapter 3 o
 
 ### 1.1.5 - Wnt in Adult Neurogenesis
 
-It was discovered in X that there are populations of adult neural progenitor cells that reside in the brain and contribute new functioning neurons throughout adulthood. Wnt was discovered to be a key regulator of adult neurogenesis by Fred Gage's lab.
+<!-- Discovery and description -->
 
-Secreted negative regulators of Wnt signaling increase throughout adulthood, and this correlates with reduction in neurogenesis.
+It was discovered in X that there are populations of adult neural progenitor cells that reside in the brain and contribute new functioning neurons throughout adulthood. 
+
+<!-- Connection to Wnt -->
+
+Wnt was discovered to be a key regulator of adult neurogenesis by Fred Gage's lab. The Wnt/ß-catenin pathway is a key regulator of adult hippocampal neurogenesis.  Hippocampal neurogenesis is blocked in adult rats by a dominant-negative WNT, which leads to deficits in spatial and object recognition memory [7]. Conversely, enhanced Wnt/ß-catenin signaling is sufficient to increase production of neurons from adult neural progenitor cells (aNPCs) in the dentate gyrus (DG) [8].
+
+Secreted negative regulators of Wnt signaling increase throughout adulthood, and this correlates with reduction in neurogenesis. [Song]
+
+<!-- Diseases when neurogenesis is disrupted -->
+
+TBI causes depletion of aNPCs, linked with PTSD and other symptoms. 
+
+Disruption in adult neurogenesis contributes to the etiology of various CNS disorders, including Alzheimer’s and Schizophrenia [5, 6]. 
 
 Mutations in genes that regulate  Wnt signaling in the brain (DISC1, DIXDC1) are linked with schizophrenia and major depression.
-
-Thorough discussion can be found in simvastatin paper
 
 A more detailed account of Wnt in adult neurogenesis is presented in chapter 4 of this thesis.
 
 ### 1.1.6 - Pharmacologic regulators of Wnt/ß-Catenin signaling
 
-Currently there are no clinically approved therapies that specifically target Wnt signaling. [Zimmerman et al.] This is in spite of the fact that misregulation of the pathway has a well known role in cancer and degenerative diseases. 
+Currently there are no clinically approved therapies that specifically target Wnt signaling. [Zimmerman et al.] This is in spite of the fact that misregulation of the pathway has a well known role in cancer and degenerative diseases. It is thought that the beneficial effects of lithium 
 
 Lithium is in clinical use and part of its mechanism may be due to Wnt signaling. This is talked about in my Simva paper.
 
@@ -75,13 +85,15 @@ Chapters 2-4 of this manuscript each discuss pharmacologic regulators of the Wnt
 
 In the research presented in chapters 2-4, I looked to discover small molecule regulators of the Wnt/ß-catenin pathway. I was particularly interested in small molecules because of their applicability to both basic research and clinical drug development. As opposed to genetic approaches such as siRNAs and shRNAs to induce a gain or loss of function in cell signaling, small molecules can be included in an experimental paradigm with relatively little overhead and higher relative predictability of effect [@Weiss_2007]. This effect carries over when administering small molecules to animals, which tends to be more efficacious than genetic materials. Although delivery of RNAi molecules in vivo is possible, studies employing this method have relied upon sophisticated techniques and instrumentation [@Beronja_2010]. Finally, small molecules have a long proven track record in treating human diseases.
 
-Consistent with my overall goals, small molecules are highly amenable to discovery via automation. The use of arrayed libraries in microplates allows for high-throughput screens to be performed by automated equipment, rather than being tested individually by hand. These contents of the libraries can be produced from curated lists, such as the library of human experienced compounds in the riluzole in simvastatin papers. Libraries can also be produced combinatorially around a scaffold or particular pharmacophore.
+Consistent with my overall goals, small molecules are highly amenable to discovery via automation. The use of arrayed libraries in microplates allows for high-throughput screens to be performed by automated equipment, rather than being tested individually by hand [@Sundberg_2000]. These contents of the libraries can be produced from curated lists, such as the library of human experienced compounds in the riluzole in simvastatin papers. Libraries can also be produced combinatorially around a scaffold or particular pharmacophore [@Thompson_1996].
 
 Another reason that I prioritized the discovery of small molecule regulators of Wnt/ß-Catenin signaling is that the small molecules that I reported on serve as deliverables in and of themselves alongside the journal articles. This means that future projects have a reliable physical starting place from which to conduct experiments. The molecules discussed in these works are commercially available, and in some cases are already approved for human use. This means that the time it takes for another group to begin experiments based off of my findings will be minimized, and ongoing studies of these molecules such as in clinical trials will be able to draw inference from my projects.
 
 ### 1.2.2 Understanding Biological Mechanisms through Cell Signaling Events
 
 The projects that I participated in attempted to further our understanding of the mechanisms of cell signaling. In each case I used Wnt/ß-Catenin signaling as an entry point from which to address biological mechanisms that govern behavior. This entailed selectively monitoring and perturbing Wnt signaling. In order to monitor the pathway I made user of genetic reporter constructs whose expression are driven by nuclear ß-Catenin, including pBAR in cultured cells [@Biechele_2008] and BAT-GAL in mice [@Maretto_2003]. 
+
+Part of the reason for the lack of Wnt pathway directed drugs is the need for more feasible drug targets.
 
 
 I monitored Wnt signaling while using established methods to perturb other pathways, in order to find where multiple pathways may cross-talk with one another. To determine the role of Wnt in homeostatic and disease processes, I perturbed Wnt signaling while monitoring behaviors such as cell death, proliferation, induction of differentiation, and lineage specification.
@@ -92,9 +104,12 @@ In spite of what is known about how misregulated Wnt/ß-catenin signaling can pr
 
 ### 1.2.3 Exploiting Cell Signaling to Inform Novel Therapeutics
 
-As a natural complement to learning about the role of Wnt/ß-Catenin signaling in disease, an aim of my work was to identify opportunities where perturbation of signaling in stem and progenitor cells may inform the development of a rational therapeutic.
+As a natural complement to learning about the role of Wnt/ß-Catenin signaling in disease and discovery of small molecules, an aim of my work was to gather pieces of pre-clinical evidence. This meant identifying opportunities where perturbation of Wnt signaling in stem and progenitor cells may inform the development of a rational therapeutic.
 
-To date, the field of translational life sciences has made major headway towards development of therapies that utilize pharmacologic manipulation of stem and progenitor cells. 
+
+ The rescue or repurposing of drugs that have already passed through human safety studies has been widely discussed as a strategy that may succesfully speed up development of therapies. Chapters 2 and 4 of this thesis present investigation of previously undocumented effects FDA approved compounds.
+
+
 
 The idea of targeting pathways in disease has been around for a while
 

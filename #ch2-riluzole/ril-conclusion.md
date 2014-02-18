@@ -4,6 +4,8 @@
 
 We succesfully followed the pattern from hit to lead.
 
+From secondary validation I took away lessons about the ideal ratio of effort to spend on this step, which I carried on to later projects.
+
 There was a high level of attrition along the way and a lot of work that went into validating compounds that did not make the final cut. It's unclear whether this is an ideal situation in an academic lab. Whereas in a 
 <!-- summary of results, what did we learn -->
 
