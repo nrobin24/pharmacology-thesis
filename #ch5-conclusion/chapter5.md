@@ -34,13 +34,9 @@ Despite the effort put forth to do HTS in stem cells, we did not identify anythi
 
 ## 5.4 - Suggestions for future work
 
-Determine whether wnt enhancement can truly overcome vemurafenib resistance
-
-Closely follow clinical paradigms -- if something aside from small molecules comes along, then quickly adopt it to research
-
-Prioritize performing experiments from different domains in tandem. In order to build a strong case that a certain signaling event occurs, I found that it is not only necessary to use small molecule perturbation but also through genetic means such as siRNA.
-
 ### 5.4.1 - Increased emphasis on in vivo disease models
+
+Cell culture models can be too far abstracted from the actual context in which we are trying to learn about. This is intensified by the complexity of stem cell niches. When trying to culture progenitor cells, we must worry about whether we are providing necessary support cells and providing accurate environmental cues. The timeline of neuronal induction was different between in vitro and in vivo experiments in the paper presented in chapter 4.
 
 This is hard because it requires specialists, but ultimately yields the highest impact and most clinically relevant findings. While discovering novel biology is interesting in its own right, if we stick to disease models then we will increase the rate at which critical new therapies are made.
 

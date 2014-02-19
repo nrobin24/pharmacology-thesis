@@ -1,6 +1,8 @@
 
 ## 3.3 - Conclusion
 
+We tried a lot of different types of screening strategies, but the non-fancy screen is the one that ended up yielding the publication. We extensively tested the idea of modifier screening, which went on to be published in the BRAF paper but in general was not very informative.
+
 This project yielded a novel inhibitor of the Wnt pathway reliably inhibited Wnt signaling in cancer cell lines and hESCs. Authors James and Bosch were able to connect with a
 
 

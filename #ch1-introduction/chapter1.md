@@ -91,16 +91,9 @@ Another reason that I prioritized the discovery of small molecule regulators of 
 
 ### 1.2.2 Understanding Biological Mechanisms through Cell Signaling Events
 
-The projects that I participated in attempted to further our understanding of the mechanisms of cell signaling. In each case I used Wnt/ß-Catenin signaling as an entry point from which to address biological mechanisms that govern behavior. This entailed selectively monitoring and perturbing Wnt signaling. In order to monitor the pathway I made user of genetic reporter constructs whose expression are driven by nuclear ß-Catenin, including pBAR in cultured cells [@Biechele_2008] and BAT-GAL in mice [@Maretto_2003]. 
+The projects that I participated in attempted to further our understanding of the mechanisms of cell signaling. In each case I used Wnt/ß-Catenin signaling as an entry point from which to address biological mechanisms that govern behavior. This entailed selectively monitoring and perturbing Wnt signaling. In order to monitor the pathway I made user of genetic reporter constructs whose expression are driven by nuclear ß-Catenin, including pBAR in cultured cells [@Biechele_2008] and BAT-GAL in mice [@Maretto_2003]. To determine the role of Wnt in homeostatic and disease processes, I perturbed Wnt signaling while monitoring behaviors such as cell death, proliferation, induction of differentiation, and lineage specification.
 
-Part of the reason for the lack of Wnt pathway directed drugs is the need for more feasible drug targets.
-
-
-I monitored Wnt signaling while using established methods to perturb other pathways, in order to find where multiple pathways may cross-talk with one another. To determine the role of Wnt in homeostatic and disease processes, I perturbed Wnt signaling while monitoring behaviors such as cell death, proliferation, induction of differentiation, and lineage specification.
-
-I chose to focus on Wnt/ß-catenin signaling in part because of its established role in diseases including melanoma and various neurodegenerative disorders. This helped to guide the direction in which I proceeded through projects, as I was able to place my experimental results within context of the body of knowledge about the specific disease.
-
-In spite of what is known about how misregulated Wnt/ß-catenin signaling can precipitate disease states, there are relatively few therapies targeting this signaling pathway. This served as another reason that I focused on this pathway.
+Part of the reason for the lack of Wnt pathway directed drugs is the need for more feasible drug targets. To increase this number, we may discover additional protein regulators of the pathway. To this end, I monitored Wnt signaling while using established methods to perturb other pathways, in order to find where multiple pathways may cross-talk with one another. In screening small molecules we sought to discover novel drug targets. In the work presented in chapters 2 and 4, we attempted to map the previously unkown connections between drug targets HMGCR and GRM1, and the Wnt signaling pathway. In chapter 3 of this thesis, we determined that the molecule under investigation acted through a recently discovered mechanism of Wnt inhibition.
 
 ### 1.2.3 Exploiting Cell Signaling to Inform Novel Therapeutics
 
@@ -109,28 +102,3 @@ As a natural complement to learning about the role of Wnt/ß-Catenin signaling i
 
  The rescue or repurposing of drugs that have already passed through human safety studies has been widely discussed as a strategy that may succesfully speed up development of therapies. Chapters 2 and 4 of this thesis present investigation of previously undocumented effects FDA approved compounds.
 
-
-
-The idea of targeting pathways in disease has been around for a while
-
-There were certain successes, particularly in cancer, see Gleevec
-
-However cancer is fast moving and changing, see Vemurafinib
-
-A new idea is to target cancer stem cells with Wnt
-
-Why? Wnt has less functional redundancy than ERK/MAPK
-
-
-This approach worked in my projects where:
-
-with ril and simva we already knew something about targets
-
-with WIKI we were able to connect to known mechanism
-
-later on with BRAF, Wnt was able to synergize w Vemurafenib
-
-<!-- Stem Cells -->
-
-
-<!-- POTENTIAL LIMITATIONS -->
