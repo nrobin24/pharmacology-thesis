@@ -29,39 +29,27 @@ A more thorough explanation of Wnt in melanoma is given in chapter 2 of this the
 
 ### 1.1.4 - Wnt in cultured hESCs
 
-Given its role
+Wnt governs the transition between self renewal and spontaneous differentiation in hESCs. It was initially reported that active endogenous Wnt signaling is necessary for embryonic stem cells to maintain an undifferentiated state. However, this finding was later determined to be specific to mouse epiblast stem cells. In human lines, that are derived from later stage XXXX, endogenous Wnt signaling was shown to be dispensible for self-renewal, while activation of the pahtway with exogenous Wnt lead cells to undergo spontaneous differentiation [DAVIDSON PAPER]. The differences between these two stages of stem cells is still being determined.
 
-There is a controversy as to the specific role of canonical signaling.
 
-The existence of this controversy means that we should study the Wnt pathway in hESCs more closely and try to learn more about the specific mechanisms.
+The existence of this controversy means that we should study the Wnt pathway in hESCs more closely and try to learn more about the specific mechanisms. Here's some bit about a complex involvement of Wnt. The controversy also speaks to the complexity of hESC culture, where results can often conflict with mouse ESCs, and also multiple signaling pathways are highly dependant upon one another.
 
-The controversy also speaks to the complexity of hESC culture, where results can often conflict with mouse ESCs, and also multiple signaling pathways are highly dependant upon one another.
 
 "Thus, heterogeneity with respect to endogenous Wnt signalling underlies much of the inefficiency in directing hESCs towards specific cell types. The relatively uniform differentiation potential of the Wnt(high) and Wnt(low) hESCs leads to faster and more efficient derivation of targeted cell types from these populations."
 
 http://www.ncbi.nlm.nih.gov/pubmed/22990866
 
-Also Ex-Vivo Directed Differentiation
+Efforts to control when and how hESCs differentiate in culture are central to a number of novel therapeutic strategies. The development of protocols for directed hESC differentiaton is an active area of research. Directed differentiation protocols where Wnt is manipulated are being considered in order to produce myocardial cells [Murry Lab], hematopoetic cells [Hadland]. These protocols require both the knowledge of how Wnt controls differentiation, and tools that can be used to specifically and temporally regulate the pathway. 
 
 The effects of Wnt signaling on hESC differentiation is discussed in chapter 3 of this thesis.
 
 ### 1.1.5 - Wnt in Adult Neurogenesis
 
-<!-- Discovery and description -->
+Until the 1990s it was not widely accepted that cells continue to divide in the brain of adult mammals. A deluge of studies using BrdU determined that there are populations of adult neural progenitor cells that reside in the brain and contribute new functioning neurons throughout adulthood. There are niches of dividing progenitor cells in the SGZ and SVZ.
 
-It was discovered in X that there are populations of adult neural progenitor cells that reside in the brain and contribute new functioning neurons throughout adulthood. 
+TBI causes depletion of aNPCs, linked with PTSD and other symptoms. Also, disruption in adult neurogenesis contributes to the etiology of various CNS disorders, including Alzheimer’s and Schizophrenia [5, 6]. 
 
-<!-- Connection to Wnt -->
-
-Wnt was discovered to be a key regulator of adult neurogenesis by Fred Gage's lab. The Wnt/ß-catenin pathway is a key regulator of adult hippocampal neurogenesis.  Hippocampal neurogenesis is blocked in adult rats by a dominant-negative WNT, which leads to deficits in spatial and object recognition memory [7]. Conversely, enhanced Wnt/ß-catenin signaling is sufficient to increase production of neurons from adult neural progenitor cells (aNPCs) in the dentate gyrus (DG) [8].
-
-Secreted negative regulators of Wnt signaling increase throughout adulthood, and this correlates with reduction in neurogenesis. [Song]
-
-<!-- Diseases when neurogenesis is disrupted -->
-
-TBI causes depletion of aNPCs, linked with PTSD and other symptoms. 
-
-Disruption in adult neurogenesis contributes to the etiology of various CNS disorders, including Alzheimer’s and Schizophrenia [5, 6]. 
+Wnt was discovered to be a key regulator of adult neurogenesis by Fred Gage's lab. The Wnt/ß-catenin pathway is a key regulator of adult hippocampal neurogenesis.  Hippocampal neurogenesis is blocked in adult rats by a dominant-negative WNT, which leads to deficits in spatial and object recognition memory [7]. Conversely, enhanced Wnt/ß-catenin signaling is sufficient to increase production of neurons from adult neural progenitor cells (aNPCs) in the dentate gyrus (DG) [8]. Secreted negative regulators of Wnt signaling increase throughout adulthood, and this correlates with reduction in neurogenesis. [Song]
 
 Mutations in genes that regulate  Wnt signaling in the brain (DISC1, DIXDC1) are linked with schizophrenia and major depression.
 
