@@ -1,34 +1,12 @@
 
 ## 2.1 - Introduction
 
-<!-- cursory description of the work and its motivation -->
-Upon joining the Moon lab, I began to analyze a dataset that came as a result of a high-throughput small molecule screen. This screen was performed by lab members Travis Biechele and Nathan Camp, in collaboration with Dr. Stephen Haggerty of the Broad Institute. The screen was conducted using a cell line that had been lentivirally transduced with the pBAR-Luciferase construct, a robust genetic reporter of ß-Catenin signaling. The motivation for this screen came, in part, from findings by Dr. Andy Chien's group that enhanced Wnt/ß-catenin signaling correlates with improved outcome among melanoma patients. [@chien2009activated]
+Upon joining the Moon lab, I began to analyze a dataset that came as a result of a high-throughput small molecule screen. This screen was performed by lab members Travis Biechele and Nathan Camp, in collaboration with Dr. Stephen Haggerty of the Broad Institute. The screen was conducted using a cell line that had been lentivirally transduced with the pBAR-Luciferase construct, a robust genetic reporter of ß-Catenin signaling [@Biechele_2008]. The motivation for this screen came, in part, from the finding by Dr. Andy Chien's group that enhanced Wnt/ß-catenin signaling correlates with improved outcome among melanoma patients [@chien2009activated]. The Moon and Chien labs were interested to identify small molecules that activate the Wnt pathway in melanoma cells, and to see whether this activation yielded beneficial results in models of the disease. We were most interested in molecules that have clinical translatability.
 
-<!-- detailed motivation about the part i was involved in -->
-The library of molecules used in the screen performed at the Broad Institute included ~2,000 compounds that previously been approved for human use in the United States, Canada, or the European Union. The intention in including human-experienced compounds in the screen was twofold. First, in pursuit of compounds that are clinically feasible there is typically a high rate of attrition in the steps between HTS discovery and generation of lead compounds [@bleicher2003hit]. Biechele and Camp looked to avoid this by focusing on compounds that already had proven efficacy in humans. Second, these human-experienced compounds had been well researched prior to their use in the screen, meaning that hits were likely able to be matched with known mechanisms of action.
+The library of molecules used in the screen performed at the Broad Institute included ~2,000 compounds that had previously been approved for human use in the United States, Canada, or the European Union. The intention in including human-experienced compounds in the screen was twofold. First, in pursuit of compounds that are clinically feasible there is typically a high rate of attrition in the steps between HTS discovery and generation of lead compounds [@bleicher2003hit]. Biechele and Camp looked to avoid this by focusing on compounds that already had proven efficacy in humans. Second, these human-experienced compounds had been well researched prior to their use in the screen, meaning that hits were likely able to be matched with known mechanisms of action.
 
-<!-- the problem that I needed to address -->
-While the Broad Institute provided the facilities for Biechele and Camp to conduct the physical screen, the Moon lab was left to its own devices in analyzing of the resultant data. To proceed ahead with the project we needed to formulate a plan for hit prioritization, and secondary follow up validation. A majority of my work on this project was focused on these tasks. In particular, I was interested in combining statistical and bioinformatic approaches in order to make an informed decision about where to focus research energy. 
+While the Broad Institute provided the facilities for Moon lab members to conduct the physical screen, we were left to our own devices in the analysis of the raw dataset. To proceed ahead with the project, it was imperative that we formulate a plan for hit prioritization, and secondary follow up validation. A majority of my work on this project was focused on these tasks. In particular, I was interested in combining statistical and bioinformatic approaches in order to make an informed decision about where to focus research energy. 
 
-To do this I wrote MATLAB scripts to compute statistical scores that are appropriate when considering large datasets. I incorporated categorical variables into the sorting and filtering process such as the drugs approval status across government agencies. I also attached semantic data, mined from publicly available databases like Drugbank [@Drugbank_2006] and STITCH [@STITCH_2008], about the known targets and mechanisms of hit compounds.
+To do this I wrote MATLAB scripts to compute statistical scores that are appropriate when considering large datasets. I incorporated categorical variables into the sorting and filtering process such as drug approval status across government agencies. I also attached semantic data, mined from publicly available databases like Drugbank [@Drugbank_2006] and STITCH [@STITCH_2008], about the known targets and mechanisms of hit compounds.
 
-Once we had filtered and sorted the hit list we began to perform secondary validation steps. I formed 
-
-
-Ultimately we decided to pursue riluzole as the primary target of our inquiry based on a combination of these factors.
-
-
- We sought to prioritize these processes based upon the goal of identifying compounds that enhance Wnt/ß-Catenin signaling and which may be of therapeutic value in treating melanoma.
-
-My work in this project was largely focused in answering the questions of:
-
-* how do you analyze a high throughput screen
-* how many compounds to try and validate
-* when to throw out a compound
-
-<!-- my approach to answering the question -->
-My approach was:
-
-* Test multiple doses
-* Use RT-PCR
-
+Once we had filtered and sorted the hit list we began to perform secondary validation steps. It would have been prohibitively expensive to perform in vivo tumor forming assays with mice for each of the dozens of compounds that passed the initial filtering process. As an orthogonal approach to pBAR, I relied on quantitiative PCR analysis of Wnt target genes. This was necessary in order to eliminate false positives and identify the candidate hits showing the most robust activation of the Wnt pathway. Ultimately we decided to pursue riluzole, an inhibitor the glutamate receptor GRM1 indicated to treat ALS, as the primary target of our inquiry. We based this choice on a combination of riluzole's results in secondary validation, as well as our percieved feasibility of the compound for clinical use that came from bioinformatic analysis.

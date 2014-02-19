@@ -23,17 +23,13 @@ Wnts are a family of secreted glycoproteins that act as ligands for Fzd transmem
 
 Misregulation of the Wnt pathway has been linked to the formation of various types of tumors. A well studied example of this is in colorectal cancer, where mutations in the gene _APC_ are the most frequent cause [@Clevers_1997]. APC is one of the proteins responsible for degrading ß-Catenin when the pathway is not active. When APC cannot function there is an abnormally high level of Wnt signaling that causes overexpression of growth promoting genes [@Najdi_2011]. Mutations in other core Wnt pathay genes _AXIN1_, _CTNNB1_, and _TCF7L2_ have been linked to tumor formation [@Anastas_2013]. Abberations in Wnt signaling have been identified as contributing to pancreatic, mammary, ovarian, and skin cancers.
 
-In melanoma, as opposed to colorectal cancer, a high level of Wnt signaling was found to correlate with improved patient survival [@chien2009activated]. Melanoma tumors are commonly caused by mutations in the ERK signaling pathway, the most frequently observed being BRAF V600E mutation. It was discovered that Wnt has a high level of crosstalk with hyperactivated ERK signaling in melanoma cells [Biechele BRAF paper]. It should also be noted that the benefits of high Wnt in melanoma may be time and tumor type dependent [PTEN mouse paper].
+In melanoma, as opposed to colorectal cancer, a high level of Wnt signaling was found to correlate with improved patient survival [@chien2009activated]. Melanoma tumors are commonly caused by mutations in the ERK signaling pathway, the most frequently observed being BRAF V600E mutation. It was discovered that Wnt has a high level of crosstalk with hyperactivated ERK signaling in melanoma cells [@biechele2012wnt]. It should also be noted that a high level of Wnt/ß catenin signaling has been found to be induce tumorigenesis and metastasis in melanomas dependent on mutational status [@Delmas_2007 @Damsky_2011].
 
-A more thorough explanation of Wnt in melanoma is given in chapter 2 of this thesis.
+A more in depth explanation of Wnt in melanoma is included in chapter 2 of this thesis.
 
 ### 1.1.4 - Wnt in cultured hESCs
 
-Wnt governs the transition between self renewal and spontaneous differentiation in hESCs. It was initially reported that active endogenous Wnt signaling is necessary for embryonic stem cells to maintain an undifferentiated state. However, this finding was later determined to be specific to mouse epiblast stem cells. In human lines, that are derived from later stage XXXX, endogenous Wnt signaling was shown to be dispensible for self-renewal, while activation of the pahtway with exogenous Wnt lead cells to undergo spontaneous differentiation [DAVIDSON PAPER]. The differences between these two stages of stem cells is still being determined.
-
-
-The existence of this controversy means that we should study the Wnt pathway in hESCs more closely and try to learn more about the specific mechanisms. Here's some bit about a complex involvement of Wnt. The controversy also speaks to the complexity of hESC culture, where results can often conflict with mouse ESCs, and also multiple signaling pathways are highly dependant upon one another.
-
+Wnt governs the transition between self renewal and spontaneous differentiation in hESCs. It was initially reported that active endogenous Wnt signaling is necessary for embryonic stem cells to maintain an undifferentiated state [@Sato_2004]. However, this finding was later determined to be specific to culture conditions used in the study. Endogenous Wnt signaling has since been shown to be dispensible for self-renewal, while activation of the pahtway with exogenous Wnt lead cells to undergo spontaneous differentiation [@davidson2012wnt]. The conflicted nature of htese findings speaks to the complexity of hESC culture, where multiple signaling pathways are highly dependant upon one another.
 
 "Thus, heterogeneity with respect to endogenous Wnt signalling underlies much of the inefficiency in directing hESCs towards specific cell types. The relatively uniform differentiation potential of the Wnt(high) and Wnt(low) hESCs leads to faster and more efficient derivation of targeted cell types from these populations."
 
@@ -57,13 +53,9 @@ A more detailed account of Wnt in adult neurogenesis is presented in chapter 4 o
 
 ### 1.1.6 - Pharmacologic regulators of Wnt/ß-Catenin signaling
 
-Currently there are no clinically approved therapies that specifically target Wnt signaling. [Zimmerman et al.] This is in spite of the fact that misregulation of the pathway has a well known role in cancer and degenerative diseases. It is thought that the beneficial effects of lithium 
+In spite of the fact that misregulation of the Wnt pathway has a well known role in cancer and degenerative diseases, there currently are no clinically approved therapies that specifically target Wnt signaling [@zimmerman2012targeting]. However, promisingly there are multiple such compounds currently undergoing clinical trials [@Hitt_2013].
 
-Lithium is in clinical use and part of its mechanism may be due to Wnt signaling. This is talked about in my Simva paper.
-
-Difficulties include: progenitor cell populations like in the intestine and in germinal regions of the brain require Wnt signaling, so inhibiting the pathway in order to block growth of a cancer with activated Wnt may be too harmful to other tissues. [@Watanabe_Dai_2011] Another problem is that GSK3, which is a kinase and thus relatively easier to target with small molecules, is also integral to AKT signaling and performs an additional function in synthesizing glycogen. [@TakahashiYanaga2013191]
-
-There are now multiple compounds under pre-clinical investigation.
+There are numerous difficulties that have stood in the way of progress towards developing Wnt targeted drugs. For one, progenitor cell populations like in the intestine and in germinal regions of the brain require Wnt signaling, so inhibiting the pathway in order to block growth of a cancer with activated Wnt can be too harmful to other tissues for clinical feasibility [@Watanabe_Dai_2011]. Another problem is the interconnectedness of Wnt pathway components with other signaling pathways. For instance GSK3, which is a kinase and thus relatively easier to target with small molecules, is also integral to AKT signaling and performs an additional function in synthesizing glycogen [@TakahashiYanaga2013191].
 
 Chapters 2-4 of this manuscript each discuss pharmacologic regulators of the Wnt pathway.
 
@@ -85,8 +77,8 @@ Part of the reason for the lack of Wnt pathway directed drugs is the need for mo
 
 ### 1.2.3 Exploiting Cell Signaling to Inform Novel Therapeutics
 
-As a natural complement to learning about the role of Wnt/ß-Catenin signaling in disease and discovery of small molecules, an aim of my work was to gather pieces of pre-clinical evidence. This meant identifying opportunities where perturbation of Wnt signaling in stem and progenitor cells may inform the development of a rational therapeutic.
+As a natural complement to learning about the role of Wnt/ß-Catenin signaling in disease and discovery of small molecules, an aim of my work was to gather pieces of pre-clinical evidence. This meant identifying opportunities where perturbation of Wnt signaling in stem and progenitor cells may inform the development of rational therapeutics.
 
 
- The rescue or repurposing of drugs that have already passed through human safety studies has been widely discussed as a strategy that may succesfully speed up development of therapies. Chapters 2 and 4 of this thesis present investigation of previously undocumented effects FDA approved compounds.
+The rescue or repurposing of drugs that have already passed through human safety studies has been widely discussed as a strategy that may succesfully speed up development of therapies. Chapters 2 and 4 of this thesis present investigation of previously undocumented effects FDA approved compounds.
 

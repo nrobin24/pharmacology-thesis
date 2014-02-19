@@ -3,9 +3,14 @@
 
 hESC - human embryonic stem cell
 
-pBAR - plasmid ß-Catenin Activated Reporter
+pBAR - plasmid (DNA construct containing) ß-Catenin Activated Reporter
 
-FDA - United States Food and Drug Administration
+FDA - (United States) Food and Drug Administration
 
 NIH - National Institutes of Health
 
+HTS - High Throughput Screen
+
+PCR - Polymerase Chain Reaction
+
+ALS - Amyotrophic Lateral Sclerosis
