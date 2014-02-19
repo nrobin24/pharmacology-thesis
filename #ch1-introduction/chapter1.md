@@ -41,9 +41,7 @@ The effects of Wnt signaling on hESC differentiation is discussed in chapter 3 o
 
 ### 1.1.5 - Wnt in Adult Neurogenesis
 
-Until the 1990s it was not widely accepted that cells continue to divide in the brain of adult mammals. A deluge of studies using BrdU determined that there are populations of adult neural progenitor cells that reside in the brain and contribute new functioning neurons throughout adulthood. There are niches of dividing progenitor cells in the SGZ and SVZ.
-
-TBI causes depletion of aNPCs, linked with PTSD and other symptoms. Also, disruption in adult neurogenesis contributes to the etiology of various CNS disorders, including Alzheimer’s and Schizophrenia [5, 6]. 
+Until the 1990s it was not widely accepted that cells continue to divide throughout adulthood in mammalian brains. This changed when number of studies using cell cycle markers identified dividing progenitor populations that reside in the certain brain regions and generate new functioning neurons in multiple animal models [@Gage_2002]. As with other adult stem cell populations, depletion or damage to adult neural progenitor cells (aNPCs) was found to contribute to disease. For instance, following traumatic brain injury, a drop in aNPC population is linked with outcomes like post traumatic stress disorder and memory loss. Genetic factors that negatively effect adult neurogenesis contribute to the etiology of various CNS disorders, including Alzheimer’s and Schizophrenia [@Reif_2006 @Brinton_2006]. 
 
 Wnt was discovered to be a key regulator of adult neurogenesis by Fred Gage's lab. The Wnt/ß-catenin pathway is a key regulator of adult hippocampal neurogenesis.  Hippocampal neurogenesis is blocked in adult rats by a dominant-negative WNT, which leads to deficits in spatial and object recognition memory [7]. Conversely, enhanced Wnt/ß-catenin signaling is sufficient to increase production of neurons from adult neural progenitor cells (aNPCs) in the dentate gyrus (DG) [8]. Secreted negative regulators of Wnt signaling increase throughout adulthood, and this correlates with reduction in neurogenesis. [Song]
 

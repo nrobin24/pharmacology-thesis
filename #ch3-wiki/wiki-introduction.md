@@ -7,6 +7,8 @@ One such screen utilized a library of ~7,000 small molecules that were selected 
 
 The Moon lab's interest in identifying kinase inhibitors that regulate Wnt signaling related to complimentary studies which were concurrently underway in the lab. Within the time-period of the study presented in this chapter, we had run screens of pBAR cell lines using multiple siRNA libraries which targeting all individual kinases. We also subjected these same cell lines to mass-spectrometry based quantitative phosphoproteomic analysis under a variety of conditions. Thus, we had gathered a sizeable amount of data describing kinase regulation of the pathway.
 
-Given the importance of regulating Wnt in directed differentiation protocols of hESCs (see introduction), we wanted to identify small molecules that could inhibit Wnt in these cells. And also we wanted molecules we could use as a research tool instead of siRNA, or in vivo mouse exps.
+Given the importance of regulating Wnt in directed differentiation protocols of hESCs (see introduction), we sought to identify small molecules that could inhibit Wnt in these cells. We also wanted to address the lack of available molecules with the potential to inhibit Wnt in animal models. This instructed our decision to follow the molecule Wiki4 through the course of this investigation.
+
+
 
 
