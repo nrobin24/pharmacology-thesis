@@ -39,11 +39,7 @@ The effects and implications of Wnt signaling on hESC differentiation is discuss
 
 Until the 1990s it was not widely accepted that cells continue to divide throughout adulthood in mammalian brains. This changed when number of studies using cell cycle markers identified dividing progenitor populations that reside in the certain brain regions and generate new functioning neurons in multiple animal models [@Gage_2002]. As with other adult stem cell populations, depletion or damage to adult neural progenitor cells (aNPCs) was found to contribute to disease. For instance, following traumatic brain injury, a drop in aNPC population is linked with outcomes like post traumatic stress disorder and memory loss. Genetic factors that negatively effect adult neurogenesis contribute to the etiology of various CNS disorders, including Alzheimer’s and Schizophrenia [@Reif_2006 @Brinton_2006]. 
 
-The Wnt/ß-Catenin pathway was deteremined to be a key regulator of adult neurogenesis. Hippocampal neurogenesis is blocked in adult rats by a dominant-negative WNT, which leads to deficits in spatial and object recognition memory [7]. Conversely, enhanced Wnt/ß-catenin signaling is sufficient to increase production of neurons from adult neural progenitor cells (aNPCs) in the dentate gyrus (DG) [8]. Secreted negative regulators of Wnt signaling increase throughout adulthood, and this correlates with reduction in neurogenesis. [Song]
-
-A truncation in the 
-
-Mutations in genes that regulate  Wnt signaling in the brain (DISC1, DIXDC1) are linked with schizophrenia and major depression. These mutations provide a link between Wnt signaling and the diseases.
+The Wnt/ß-catenin pathway is a key regulator of adult hippocampal neurogenesis [@Lie_2005]. Enhanced Wnt/ß-catenin signaling is sufficient to increase production of neurons from aNPCS.  Moreover, Hippocampal neurogenesis is blocked in adult rats by a dominant-negative WNT, which leads to deficits in spatial and object recognition memory. [@Jessberger_2009] In the normal aging process, secretion negative regulators of Wnt signaling was found to increase throughout the lifespan, and this correlates with reduction in neurogenesis [@Seib_2013 @Jang_2013].
 
 A more detailed account of Wnt in adult neurogenesis is presented in chapter 4 of this thesis.
 
