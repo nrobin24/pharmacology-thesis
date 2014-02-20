@@ -13,4 +13,10 @@ HTS - High Throughput Screen
 
 PCR - Polymerase Chain Reaction
 
+aNPC - Adult Neural Progenitor Cell(s)
+
 ALS - Amyotrophic Lateral Sclerosis
+
+CNS - Central Nervous System
+
+TBI - Traumatic Brain Injury

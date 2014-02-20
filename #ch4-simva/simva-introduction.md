@@ -1,16 +1,10 @@
 
 ## 4.1 - Introduction
 
-During my work performing secondary followup validation on many of the hits from the primary screen, I tested a number of statins. Alongside riluzole, the small molecule screen performed at the Broad Institute by Biechele and Camp also indicated that multiple statins enhance Wnt/ß-Catenin signaling.
+In addition to riluzole, the results of the screen performed by Biechele and Camp that was performed at the Broad Institute (discussed in chapter 2) indicated that multiple compounds from the drug class statins are Wnt enhancers. Statins are known to inhibit the metabolic enzyme HMGCR, which is involved in cholesterol synthesis. Statins are typically prescribed to patients for prevention and treatment of hyperlipidemia and other cholesterol disorders [@Reiner_2013].
 
-This class of drugs not only was passed the secondary validation filter, but also interesting because of its mechanism. 
+During my work performing secondary validation on many of the hits from the screen, I saw that statins indeed exhibited a robust enhancement of the Wnt/ß-Catenin pathway. I was intrigued by this finding based on the  amount of pre-existing knowledge of these drugs' mechanism of action, and because statins are among the most commonly prescribed medications in the United States.
 
-Part of my filtering process involved manual curation based on the interest in the compound and what was known in the literature.
+I tested to see whether the effect was consistent across mutliple statins, and affirmed Wnt/ß-Catenin pathway enhancement with three different structures: lovastatin, mevastatin, and simvastatin. I performed experiments with statins in a number of biological contexts in which the Moon lab was interested in finding pharmacologic enhancers of Wnt. I saw that the effect of statin on Wnt held for melanoma cells, hESCs, and neural derived cells using the pBAR reporter. (See Appendix B)
 
-I found statins especially interesting. This is because it is one of the most prescribed class of drugs, and have generally little side effects. Also there is a lot known about the mechanism of action, so I felt that I had a good starting place to go from.
-
-This project became my main project in the lab
-
-I initially looked into simvastatin in many contexts including melanoma and hESCs, both of which showed enhancement of the pathway. However I ended up chosing to stick with neural context. Simva had already been under investigation for potentially beneficial role in neurological disorders. 
-
-In the sphere of neurological contexts, I was first interested in looking at the context of traumatic brain injury. However based upon talks with Bryan White, who had just published a paper from the Moon lab about TBI, it did not seem feasible to start with this paradigm immediately. This is because the injury model in use was very noisy, and even without drug treatment there was a huge variability between groups. In consideration of time, I performed these experiments with healthy animals.
+Ultimately, in order to proceed ahead with my investigation into the biological implications of this connection between statins and the Wnt pathway I chose to focus on the neural context. Simvastatin had previously been investigated for potential effects in the CNS that were independent of inhibition of cholesterol synthesis. A body of evidence existed suggesting that statins both enhance neurogenesis, and have therapeutic potential for neurological disorders (discussed in the introduction section of the article in this chapter). I aimed my investigation towards answering the question of whether enhancement of Wnt/ß-Catenin signaling by simvastatin could explain these phenomena.

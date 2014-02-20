@@ -3,16 +3,8 @@
 
 As aluded to in the introduction of this chapter, the screen in which Wiki4 was discovered was one amongst many screens that we had performed using a similar set of conditions. Here we utilized A375 melanoma cells for the primary screen, and we then looked to see whether hit compounds had activity in the H1 hESC line. 
 
+We had formed a hypothesis in the lab that the transcription factor OCT4 may interact with ß-Catenin to regulate the Wnt pathway in hESCs. Our desire to identify molecular regulators of Wnt in hESC was connected to order to test this possibility. As expression of OCT4 protein is restricted to stem cells, I worked to develop a protocol whereby we could perform primary screens using the H1 line (see Appendix A). However, once we performed these screens we did not identify any compounds whose activity was restricted specifically to hESCs, or that we determined to be as worthy of considerable followup investigation compared to Wiki4.
 
-In addition to the small molecule screen reported on here, we also screened libraries of siRNAs. Further, we attempted to learn about the mechanisms of small molecule regulators of Wnt signaling by  
-As mentioned in chapter 1, reports have conflicted as to the precise role of canonical Wnt signaling in hESC self renewal and differentiation. 
+In a similar vein, I also worked extensively to screen kinome targeted siRNA libraries under multiple drug conditions. I performed entire siRNA screens in duplicate, where in once case all cells were treated beforehand with a drug and in the other case all cells were treated with vehical control. The idea, termed 'modifier-screening' was to identify synergistic enhancement of pBAR when combining a drug such as riluzole or simvastatin and an siRNA targeting a kinase. I used this strategy in hopes of highlighting kinases involved in the intermediary connection between the targets of these drugs and known Wnt pathway components. The use of these siRNA libraries did help us to identify novel biology, which we went on to characterize in a later paper [@biechele2012wnt]. However, the modifier-screening approach in the end was not fruitful.
 
-* we were interested in h1 because we wanted to find oct4 interaction w ctnnb1
-* we went on to do screens in h1s. it took a lot of work and I developed new protocols, see appendix A, 
-* however this did not yield anything
-
-* among the other types of screens that we conducted were modifier screens. I personally put a lot of effort into optimizing and qc'ing these screens.
-* We did a modifier screen with braf inhibitor which helped support the biechele BRAF paper. I did modifier screen with simvastatin, but this did not end up yielding any interesting results.
-* We tried a lot of different types of screening strategies, but the non-fancy screen is the one that ended up yielding the publication. 
-
-While we hoped to discover novel biology with this screen, it turns out that wiki seems to have the same mechanism of action as XAV, which had recently been reported. However, Wiki still may be of some utility because it is structurally distinct from Xav.
+As discussed in the introductory chapter of this thesis, reports have conflicted as to the precise role of canonical Wnt signaling in hESC self renewal and differentiation. We hoped to discover novel biology by testing compounds discovered through HTS in hESCs. Through biochemical investigation of the mechanism of this Wiki4, we found that it imparts an inhibitory effect on Wnt/ß-catenin signaling by inhibiting enzymatic activity of the protein TNKS. A compound called XAV939 had recently been reported on [@Huang_2009], which also inhibited Wnt via this mechanism, and as such our findings did not significantly inform any novel Wnt biology. However, Wiki4 is structurally distinct from XAV939, and so it may yet afford unique utility upon further investigation.

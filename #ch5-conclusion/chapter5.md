@@ -19,9 +19,14 @@ Aside from the benefits discussed above, chosing to investigate biological mecha
 
 In contrast to the positive aspects of prioritizing discovery of small molecules, I found that this restricted the number possible solutions that could be utilized to solve the problems that I faced in my research. In trying to determine the mechanisms connecting the targets of riluzole and simvastatin with the Wnt pathway, I came up short. With Riluzole, we found convincing evidence that its effect on Wnt was due to inhibition of metabotropic glutamate receptors, but we could not fully resolve this using other known small molecule inhibitors of the pathway. In our investigation of Wiki4 presented in chapter 3 of this thesis, we identified the mechanism in large part because a molecule with a similar mechanism of Tankyrase inhibition had recently been reported [@Huang_2009]. In the case of the simvastatin, I was able to confirm that the effect on Wnt was due to inhibition of its known target HMGCR, but when I attempted to trace the steps back to Wnt signaling I could not successfully connect the dots with small molecules alone.
 
-As is discussed throughout this thesis, I relied heavily on HTS as an initial discovery step in my inquiries. I found throughout the course of my studies that there is a finite limit to the utility of this approach, and that there are certain downsides that apply to the use of this method in an academic settings. 
+As is discussed throughout this thesis, I relied heavily on HTS as an initial discovery step in my inquiries. I found throughout the course of my studies that there is a finite limit to the utility of this approach, and that there are certain downsides that apply to the use of this method in an academic settings. A 
 
-Something about it not being totally appropriate for academic labs to do this kind of research.
+* graduate students need to learn how to interpret findings, and formulate inciteful followup experiments
+
+* the repetetive nature of secondary followup validaton of a list of compounds does not foster this
+* performing large complex experiments requires a group of people with diverse skillsets
+* if the intention is only to follow up a single result, then those involved in the initial discovery process do not play as significant a role in decisions regarding followup. This may be more appropriate for a commercial settings than in acacdemic labs when each person needs to be a lead author in order to progress their cadeer,
+s
 
 Despite the effort put forth to do HTS in stem cells, as alluded to in chapter 3 of this thesis, we did not identify any molecules with a unique effect in stem cells when we performed these screens. We looked to investigate a potential interaction between CTNNB1 and OCT4, but in practice we were able to address this using more traditional low-throughput experiments. My takeaway from this is that it is a mistake to perform a holistic discovery experiment, such as a screen, when there is an anticipated result in mind.
 
@@ -35,9 +40,7 @@ This is hard because it requires specialists, but ultimately yields the highest 
 
 ### 5.4.x - Use Automation
 
-With regards to methods, I found that automation was incredible helpful in many aspects of this paper. First there was the high throughput screen, which has been covered in this thesis. In the development and optimization of assays with primary aNPCs, I used automated microscopy to test many conditions. Since I was working with a primary cell lines, the culture conditions were not predifined. In order to determine the correct coating to keep the cells on the plate, timing to keep the cells alive, etc, the use of automated microscopy and scoring was a major boon.
-
-Certainly a graduate student should be expected to spend a great deal of labor, but if they can spend this on convering more ground, as opposed to single monolithic task, then they can better cover what is expected in a scientific report or journal article. 
+Although I've outlined above some of the potential pitfalls of relying on large screening campaigns in academic labs, I maintain that automation is currently underutilized. With regards to methods, I found that automation was incredible helpful in many aspects of this paper. This was not limited to the use of HTS. In the development and optimization of assays with primary aNPCs, I used automated microscopy to test many conditions. Since I was working with a primary cell lines, the culture conditions were not predifined. In order to determine the correct coating to keep the cells on the plate, timing to keep the cells alive, etc, the use of automated microscopy and scoring was a major boon. Certainly a graduate student should be expected to spend a great deal of labor, but if they can spend this on convering more ground, as opposed to single monolithic task, then they can better cover what is expected in a scientific report or journal article. This equipment will continue to become less expensive to own and operate, and thus should be readily adopted. Also, core facilities may aid in this.
 
 ### 5.4.2 - Move beyond the pathway paradigm
 
