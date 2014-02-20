@@ -33,6 +33,12 @@ Cell culture models can be too far abstracted from the actual context in which w
 
 This is hard because it requires specialists, but ultimately yields the highest impact and most clinically relevant findings. While discovering novel biology is interesting in its own right, if we stick to disease models then we will increase the rate at which critical new therapies are made.
 
+### 5.4.x - Use Automation
+
+With regards to methods, I found that automation was incredible helpful in many aspects of this paper. First there was the high throughput screen, which has been covered in this thesis. In the development and optimization of assays with primary aNPCs, I used automated microscopy to test many conditions. Since I was working with a primary cell lines, the culture conditions were not predifined. In order to determine the correct coating to keep the cells on the plate, timing to keep the cells alive, etc, the use of automated microscopy and scoring was a major boon.
+
+Certainly a graduate student should be expected to spend a great deal of labor, but if they can spend this on convering more ground, as opposed to single monolithic task, then they can better cover what is expected in a scientific report or journal article. 
+
 ### 5.4.2 - Move beyond the pathway paradigm
 
 In the past we aknowledged the phenomenon of cross talk, but this should be considered the norm. Signaling pathways were discovered based on their ability to produce visible morphological phenotypes in model organisms. The knowledge that we have acquired about how signaling molecules act upon one another is still extremely valuable, but we should view the system as an interconnected network rather than a series of pathways.
