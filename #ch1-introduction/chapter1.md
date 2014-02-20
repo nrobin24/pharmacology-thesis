@@ -29,23 +29,21 @@ A more in depth explanation of Wnt in melanoma is included in chapter 2 of this 
 
 ### 1.1.4 - Wnt in cultured hESCs
 
-Wnt governs the transition between self renewal and spontaneous differentiation in hESCs. It was initially reported that active endogenous Wnt signaling is necessary for embryonic stem cells to maintain an undifferentiated state [@Sato_2004]. However, this finding was later determined to be specific to culture conditions used in the study. Endogenous Wnt signaling has since been shown to be dispensible for self-renewal, while activation of the pahtway with exogenous Wnt lead cells to undergo spontaneous differentiation [@davidson2012wnt]. The conflicted nature of htese findings speaks to the complexity of hESC culture, where multiple signaling pathways are highly dependant upon one another.
+Wnt governs the transition between self renewal and spontaneous differentiation in hESCs. It was initially reported that active endogenous Wnt signaling is necessary for embryonic stem cells to maintain an undifferentiated state [@Sato_2004]. However, this finding was later determined to be specific to culture conditions used in the study. Endogenous Wnt signaling has since been shown to be dispensible for self-renewal, while activation of the pahtway with exogenous Wnt lead cells to undergo spontaneous differentiation [@davidson2012wnt]. The conflicted nature of htese findings speaks to the complexity of hESC culture, where multiple signaling pathways are highly dependant upon one another. It has been suggested that investigation of novel small molecule inhibitors of Wnt/ß-Catenin signaling may help to resolve this [@Nat_2012].
 
-"Thus, heterogeneity with respect to endogenous Wnt signalling underlies much of the inefficiency in directing hESCs towards specific cell types. The relatively uniform differentiation potential of the Wnt(high) and Wnt(low) hESCs leads to faster and more efficient derivation of targeted cell types from these populations."
+Efforts to control when and how hESCs differentiate in culture are central to a number of novel therapeutic strategies. The development of protocols for directed hESC differentiaton is an active area of research. Directed differentiation protocols utilizing manipulation of the Wnt pathway in order to produce myocardial cells [@Paige_2010], neuronal cells [@Dhara_2008], and retinal pigment epithelium cells [@Li_2009]. These protocols require both the knowledge of how Wnt controls differentiation, and tools that can be used to specifically and temporally regulate the pathway. 
 
-http://www.ncbi.nlm.nih.gov/pubmed/22990866
-
-Efforts to control when and how hESCs differentiate in culture are central to a number of novel therapeutic strategies. The development of protocols for directed hESC differentiaton is an active area of research. Directed differentiation protocols where Wnt is manipulated are being considered in order to produce myocardial cells [Murry Lab], hematopoetic cells [Hadland]. These protocols require both the knowledge of how Wnt controls differentiation, and tools that can be used to specifically and temporally regulate the pathway. 
-
-The effects of Wnt signaling on hESC differentiation is discussed in chapter 3 of this thesis.
+The effects and implications of Wnt signaling on hESC differentiation is discussed in chapter 3 of this thesis.
 
 ### 1.1.5 - Wnt in Adult Neurogenesis
 
 Until the 1990s it was not widely accepted that cells continue to divide throughout adulthood in mammalian brains. This changed when number of studies using cell cycle markers identified dividing progenitor populations that reside in the certain brain regions and generate new functioning neurons in multiple animal models [@Gage_2002]. As with other adult stem cell populations, depletion or damage to adult neural progenitor cells (aNPCs) was found to contribute to disease. For instance, following traumatic brain injury, a drop in aNPC population is linked with outcomes like post traumatic stress disorder and memory loss. Genetic factors that negatively effect adult neurogenesis contribute to the etiology of various CNS disorders, including Alzheimer’s and Schizophrenia [@Reif_2006 @Brinton_2006]. 
 
-Wnt was discovered to be a key regulator of adult neurogenesis by Fred Gage's lab. The Wnt/ß-catenin pathway is a key regulator of adult hippocampal neurogenesis.  Hippocampal neurogenesis is blocked in adult rats by a dominant-negative WNT, which leads to deficits in spatial and object recognition memory [7]. Conversely, enhanced Wnt/ß-catenin signaling is sufficient to increase production of neurons from adult neural progenitor cells (aNPCs) in the dentate gyrus (DG) [8]. Secreted negative regulators of Wnt signaling increase throughout adulthood, and this correlates with reduction in neurogenesis. [Song]
+The Wnt/ß-Catenin pathway was discovered to be a key regulator of adult neurogenesis. Hippocampal neurogenesis is blocked in adult rats by a dominant-negative WNT, which leads to deficits in spatial and object recognition memory [7]. Conversely, enhanced Wnt/ß-catenin signaling is sufficient to increase production of neurons from adult neural progenitor cells (aNPCs) in the dentate gyrus (DG) [8]. Secreted negative regulators of Wnt signaling increase throughout adulthood, and this correlates with reduction in neurogenesis. [Song]
 
-Mutations in genes that regulate  Wnt signaling in the brain (DISC1, DIXDC1) are linked with schizophrenia and major depression.
+A truncation in the 
+
+Mutations in genes that regulate  Wnt signaling in the brain (DISC1, DIXDC1) are linked with schizophrenia and major depression. These mutations provide a link between Wnt signaling and the diseases.
 
 A more detailed account of Wnt in adult neurogenesis is presented in chapter 4 of this thesis.
 
@@ -75,8 +73,7 @@ Part of the reason for the lack of Wnt pathway directed drugs is the need for mo
 
 ### 1.2.3 Exploiting Cell Signaling to Inform Novel Therapeutics
 
-As a natural complement to learning about the role of Wnt/ß-Catenin signaling in disease and discovery of small molecules, an aim of my work was to gather pieces of pre-clinical evidence. This meant identifying opportunities where perturbation of Wnt signaling in stem and progenitor cells may inform the development of rational therapeutics.
+As a natural complement to learning about the role of Wnt/ß-Catenin signaling in disease and discovery of small molecules, an aim of my work was to gather pieces of pre-clinical evidence. This meant identifying opportunities where perturbation of Wnt signaling in stem and progenitor cells may help to inform the development of rational therapeutics. 
 
-
-The rescue or repurposing of drugs that have already passed through human safety studies has been widely discussed as a strategy that may succesfully speed up development of therapies. Chapters 2 and 4 of this thesis present investigation of previously undocumented effects FDA approved compounds.
+The rescue or repurposing of drugs that have already passed through human safety studies has been widely discussed as a strategy that may succesfully speed up development of therapies [@Huang 2011]. Chapters 2 and 4 of this thesis present investigation of previously undocumented effects FDA approved compounds.
 
