@@ -13,10 +13,6 @@
         * 1.2.1 - Discovering Small Molecule Regulators of Cell Signaling
         * 1.2.2 - Understanding Biological Mechanisms through Cell Signaling Events
         * 1.2.3 - Exploiting Cell Signaling to Inform Novel Therapeutics
-    * 1.3 - Contribution to Published Works
-        * 1.3.1 - Biechele et. al, 2010
-        * 1.3.2 - James et. al, 2012
-        * 1.3.3 - Robin et. al, 2014
 * 2 - Chemical-genetic screen identifies riluzole as an enhancer of Wnt/β-catenin signaling in melanoma
     * 2.1 - Introduction
     * 2.2 - Journal Article
@@ -37,6 +33,7 @@
         * 3.2.3 - Materials and Methods
         * 3.2.4 - Results and Discussion
         * 3.2.5 - Conclusions
+        * 3.2.6 - References
     * 3.3 - Conclusion
 * 4 - Simvastatin Promotes Adult Hippocampal Neurogenesis by Enhancing Wnt/β-Catenin Signaling
     * 4.1 - Introduction

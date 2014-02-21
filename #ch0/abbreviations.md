@@ -3,7 +3,7 @@
 
 hESC - human embryonic stem cell
 
-pBAR - plasmid (DNA construct containing) ß-Catenin Activated Reporter
+pBAR - plasmid (DNA construct containing) β-Catenin Activated Reporter
 
 FDA - (United States) Food and Drug Administration
 

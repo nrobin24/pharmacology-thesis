@@ -60,7 +60,17 @@ For the compound wash-off experiments, ten million SW480 or DLD1 colorectal carc
 
 To make an assay for Wnt/ß-catenin signaling suitable for high throughput screening, we generated A375 melanoma cells stably infected with a ß-catenin-activated luciferase reporter (BAR) [23], [36] and selected populations in which luciferase activity is increased at least 4,000-fold by WNT3A. We tested the robustness of our assay by calculating the Z-factor (Z′) values [40] using probes that are known to enhance (U0126 [41], Riluzole [42], and GSK3B inhibitor IX [43]) or inhibit (XAV-939 [33]) Wnt/ß-catenin signaling (Figure S1A). For all control probes, we found the Z′ values to be greater than .45 (Figure S1A), a value considered robust in high throughput screening assays [40]. Following validation of our assay, we then screened A375 melanoma cells at two concentrations of a small molecule library in the presence of a twenty percent effective concentration (EC20) dose of WNT3A. We focused on small molecules that reduced expression of the luciferase reporter at a low dose (330 nM) and that did not kill cells at a high dose (10 µM) relative to controls treated with dimethyl sulfoxide (DMSO), with the expectation that these criteria would filter out compounds that inhibited BAR due to cellular toxicity. Five compounds met our criteria for further study by significantly decreasing Wnt/ß-catenin signaling without causing toxicity at either dose (Fig. 1A).
 
-![Figure 1][Wiki-Figure1]
+![Figure 1. WIKI4 is identified as a novel small molecule inhibitor of the Wnt/ß-catenin pathway. (A) Scatter plot of a small molecule
+screen in human A375 melanoma cells stably expressing the ß-catenin Activated Reporter (BAR) driving firefly luciferase with each dot representing
+a single compound. The red dots represent compounds that exhibited decreased luciferase signal (. two standard deviations below the sample
+mean), and unchanged cell viability as measured by resazurin. (B) A heat map showing the effects of five Wnt/ß-catenin inhibitors on reporters for the
+Wnt/ß-catenin, Nuclear Factor Kappa B (NF-kB), Retinoic Acid (RA), and Transforming Growth Factor ß (TGFB) pathways. WIKI4 (arrow) is the only
+compound that specifically inhibits Wnt/ß-catenin signaling. (C) Chemical structure of WIKI4 (left) and XAV-939 (right). (D) Dose response curves
+showing that WIKI4 inhibits ß-catenin reporter activity in DLD1 colorectal carcinoma cells and Wnt-stimulated A375 melanoma cells. (E) Inhibition of
+the expression of the ß-catenin target genes AXIN2 and TNFRSF19 by WIKI4 as assessed by quantitative PCR. DLD cells were transfected with CTNNB1
+siRNA as a control 72 hours prior to harvesting for RNA; cells were treated with compounds or DMSO for 16 hours prior to harvesting. The
+experiments in (D) and (E) are representative of three independent experiments and the error bars represent standard deviation from four technical
+replicates][Wiki-Figure1]
 
 We next asked whether any of the five compounds preferentially modulated Wnt/ß-catenin signaling by comparing the repression of BAR in A375 cells relative to luciferase reporters for the Nuclear Factor Kappa B (NF-kB), Transforming Growth Factor Beta (TGFß), and Retinoic Acid (RA) signaling pathways (Fig. 1B). Of the five candidate Wnt/ß-catenin inhibitors that we tested, WIKI4 (left panel, Fig. 1C) was the only inhibitor of BAR that did not also inhibit the reporters for NF-kB, TGFß, and RA (Fig. 1B). Furthermore, WIKI4 has demonstrated activity in one of nine published assays (http://pubchem.ncbi.nlm.nih.gov/summary/​summary.cgi?cid=2984337), supporting our contention that WIKI4 is not a general inhibitor of activity in high throughput screening assays. We then demonstrated that WIKI4 inhibits Wnt/ß-catenin signaling in several other cell lines, including DLD1 colorectal cancer cells (Fig. 1D), NALM6 B cells (Figure S1B), U2OS osteosarcoma cells (Figure S1B) and hESCs (Figure S1C). In all cell types tested, we observed that WIKI4 potently inhibited Wnt/ß-catenin signaling and that its half-maximal response dose was ~75 nM.
 
@@ -72,11 +82,13 @@ To determine which chemical groups in WIKI4 are required for its ability to inhi
 
 We next asked whether cells treated with an effective dose of WIKI4 would show a reduction in Wnt/ß-catenin-mediated responses at the cellular level. As DLD1 colorectal cancer cells require ß-catenin signaling for growth in limiting culture experiments [47], these cells provide an excellent functional model of the pathway in which to test small molecules. We found that WIKI4 inhibits growth of DLD1 cells relative to DMSO controls in media containing low serum (Fig. 2A). This result demonstrates that WIKI4 inhibits a known cellular response to Wnt/ß-catenin signaling.
 
-![Figure 2][Wiki-Figure2]
+![Figure 2. WIKI4 inhibits the functional outcomes of Wnt/ß-catenin signaling.
+(A) WIKI4 inhibits colony formation of DLD1 colorectal cancer cells. DLD1 cells were plated individually in 0.5% serum containing medium, and treated with the indicated concentrations of WIKI4 and XAV-939. This experiment is representative of three independent experiments and the error bars represent standard deviation of three technical replicates. (B-F) WIKI4 prevents Wnt3A-dependent differentiation of H1 human embryonic stem cells (hESCs). (B) Culturing hESCs for six days with Wnt3A causes marked morphological changes that are rescued by treatment with WIKI4. Scalebar = 500 µm. (C) Treatment with WIKI4 prevents the decrease in co-expression of markers of undifferentiated hESCs following Wnt3A stimulus. hESCs were stimulated with the indicated treatments and expression of GCTM2 and CD9 was assessed by flow cytometry following six days of treatment. (D-F) The effect of WIKI4 treatment on the expression of genes that are altered during Wnt3A-dependent differentiation of hESCs was assessed by qPCR. hESCs were treated for the indicated conditions for six days, and then analyzed by qPCR for markers of undifferentiated stem cells (NANOG, POU5F1) (D), endoderm (SOX17, GATA6) (E), and mesoderm (T, KDR) (F). The data was normalized to 100,000 copies of GAPDH and plotted as a ratio to the untreated hESCs (cultured in KSR media). The data in the experiments presented in B-F are representative of three independent experiments and the error represents standard deviation of technical replicates. In B-F, LCM = control L cell CM, WNT3A = Wnt3a CM; both 50% (vol/vol) in KSR medium.][Wiki-Figure2]
 
 Given that cellular responses to Wnt/ß-catenin signaling are diverse and context-dependent, we next examined the effects of WIKI4 on hESCs. Activation of Wnt/ß-catenin signaling in hESCs alters their cell fate and causes them to differentiate into early mesoderm and endoderm lineage cells [16], [17]. Upon stimulation with Wnt3A for 6 days, hESC colonies exhibit overt phenotypic changes that include loss of compact colony structure (top panels, Fig. 2B), decreased co-expression of cell surface markers of undifferentiated hESCs (GCTM2 and CD9, Fig. 2C) and decreased steady-state RNA abundance of pluripotency genes (NANOG and POU5F1, Fig. 2D). Additionally, treatment of hESCs with WNT3A leads to increased expression of genes associated with endoderm (SOX17 and GATA6, Fig. 2E) and mesoderm (T and KDR, Fig. 2F) differentiation. We found that in hESCs treated with both Wnt3A and WIKI4, the WNT3A-dependent effects that we typically observe on colony morphology (bottom panels, Fig. 2B), expression of cell surface markers (Fig. 2C) and expression of markers of pluripotency and differentiation (Fig. 2D, 2E, 2F) were eliminated. We conclude that WIKI4 inhibits Wnt/ß-catenin-mediated processes in hESCs, as well as in DLD1 cells, suggesting that WIKI4 acts on a conserved component of the Wnt/ß-catenin signaling pathway.
 
-![Figure 3][Wiki-Figure3]
+![Figure 3. WIKI4 increases the steady-state abundance of the Wnt/ß-catenin inhibitory protein, AXIN1.
+(A) WIKI4 prevents degradation of AXIN1 following stimulation with Wnt3A. A375 melanoma cells were stimulated with 10% (vol/vol) Wnt3A CM for the indicated time periods with or without WIKI4 treatment, lysed and analyzed by western blot using the indicated antibodies. (B) WIKI4 increases the steady-state abundance of AXIN1 and AXIN2 protein. DLD1 colorectal carcinoma cells were incubated with DMSO, WIKI4 or XAV-939 for the indicated times, lysed and analyzed by western blot. (C) WIKI4 does not significantly affect the steady-state RNA abundance of AXIN1. DLD1 colorectal carcinoma cells were incubated with WIK4 for the indicated times, and processed for qPCR to assess changes in the steady-state abundance of AXIN1 transcript. This data is representative of two independent experiments and the error bars represent standard deviation. (D) WIKI4-dependent increases in AXIN1 protein abundance can be maintained by treatment with a proteasome inhibitor. DLD1 colorectal carcinoma cells were treated overnight with WIKI4, and after washing were then incubated for two hours with DMSO (D), WIKI4 (W), or the proteasome inhibitor MG132 (M). The cells were lysed and analyzed by western blotting for the indicated antibodies.][Wiki-Figure3]
 
 #### WIKI4 Increases Steady-state Abundance of AXIN1
 
@@ -90,10 +102,111 @@ To further investigate how WIKI4 regulates AXIN protein abundance, we queried wh
 
 AXIN1 is modified sequentially by two enzymes in order for it to be recognized by the proteasome for degradation. First, AXIN1 is ADP-ribosylated by the TNKS1 and TNKS2 enzymes [33]. Subsequently, ADP-ribosylated AXIN1 is bound by the E3 ubiquitin ligase RNF146, which specifically catalyzes its ubiquitylation (Fig. 4A, [48], [49]). To test whether WIKI4 prevents ubiquitylation of AXIN protein, we treated SW480 (Fig. 4B) and DLD1 (Figure S3A, S3B) colorectal carcinoma cells overnight with WIKI4, and subsequently incubated for two hours with either MG132 alone or MG132 and WIKI4 (wash-off). We found that inhibition of the proteasome during the wash-off period with MG132 led to an increase in the abundance proteins bound to ubiquitin (Fig. 4B, Fig. S3A, S3B left panels). We further observed that WIKI4 treatment during the wash-off period reduced the detection of ubiquitin in immunoprecipitated AXIN2 (Fig. 4B, Figure S3A) and AXIN1 (Figure S3B), suggesting that WIKI4 indeed inhibits AXIN ubiquitylation.
 
-![Figure 4][Wiki-Figure4]
+![Figure 4. WIKI4 prevents ubiquitylation of AXIN and inhibits the enzymatic activity of TNKS2.
+(A) Schematic showing a model of how AXIN proteins are sequentially ADP-Ribosylated and then poly-ubiquitylated prior to their degradation by the proteasome. (B) WIKI4 inhibits ubiquitylation of AXIN2 in SW480 colorectal carcinoma cells. SW480 cells were treated overnight with DMSO (D), 2.5 µM WIKI4 (W) or 2.5 µM XAV-939 (X). Following a brief wash, the cells were then incubated for two hours with DMSO (D), 10 µM MG132 (M) or MG132 and one of the Wnt/ß-catenin pathway inhibitors. Lysates and AXIN2 immunoprecipitates from this experiment were processed for western blotting with the indicated antibodies. (C) WIKI4 inhibits the enzymatic activity of TNKS2. Recombinant GST-TNKS2 was bound to 96-well plates coated with glutathione. Auto-ADP-ribosylation assays were carried out using biotinylated substrate in the context of the indicated treatments. The amount of TNKS2 auto-ribosylation was quantified by performing chemiluminescent detection of the reaction between streptavidin conjugated to horseradish peroxidase and biotinylated substrate. U0126 was used as a negative control.][Wiki-Figure4]
 
 One possible explanation for WIKI4-dependent inhibition of AXIN ubiquitylation is that WIKI4 directly inhibits TNKS-mediated ADP-ribosylation of AXIN. The ADP-ribosylation activity of TNKS proteins can be assayed in vitro by quantifying their ability to catalyze auto ADP-ribosylation. To investigate the hypothesis that WIKI4 inhibits the catalytic activity of TNKS proteins, we performed in vitro auto-ADP-ribosylation assays using recombinant TNKS2. Similar to what is observed for the known TNKS inhibitor XAV-939, we found that WIKI4 prevents auto-ADP-ribosylation of TNKS2 at an IC50 of ~15 nM (Fig. 4C). In contrast to the effects of XAV-939 and WIKI4, a second ATP analog, U0126, failed to inhibit auto-ADP-ribosylation of TNKS2, demonstrating that our assay is specific (Figure 4C). Taken together, our data suggest that WIKI4 inhibits Wnt/ß-catenin signaling by inhibiting tankyrase activity, and thus preventing the ubiquitylation and degradation of AXIN proteins.
 
 ### 3.2.5 - Conclusions
 
 In summary, we have identified and characterized WIKI4, a novel small molecule inhibitor of Tankyrase that leads to inhibition of Wnt/ß-catenin signaling in multiple cell lines and in hESCs. As the structure of WIKI4 is distinct from the other published Tankyrase inhibitors [33], [34], [35], it is unlikely to share off-target effects with those molecules. Therefore, WIKI4 will be useful as a complementary biological probe for researchers who wish to inhibit the Wnt/ß-catenin pathway by inhibiting Tankyrase.
+
+### 3.2.6 - References
+
+1. MacDonald BT, Tamai K, He X (2009) Wnt/beta-catenin signaling: components, mechanisms, and diseases. Dev Cell 17: 9–26. doi: 10.1016/j.devcel.2009.06.016
+
+2. Tanaka SS, Kojima Y, Yamaguchi YL, Nishinakamura R, Tam PP (2011) Impact of WNT signaling on tissue lineage differentiation in the early mouse embryo. Dev Growth Differ 53: 843–856. doi: 10.1111/j.1440-169X.2011.01292.x
+
+3. Clevers H (2006) Wnt/beta-catenin signaling in development and disease. Cell 127: 469–480. doi: 10.1016/j.cell.2006.10.018
+
+4. Maretto S, Cordenonsi M, Dupont S, Braghetta P, Broccoli V, et al. (2003) Mapping Wnt/beta-catenin signaling during mouse development and in colorectal tumors. Proc Natl Acad Sci U S A 100: 3299–3304. doi: 10.1073/pnas.0434590100
+
+5. Shimizu N, Kawakami K, Ishitani T (2012) Visualization and exploration of Tcf/Lef function using a highly responsive Wnt/beta-catenin signaling-reporter transgenic zebrafish. Dev Biol.
+6. Dorsky RI, Sheldahl LC, Moon RT (2002) A transgenic Lef1/beta-catenin-dependent reporter is expressed in spatially restricted domains throughout zebrafish development. Dev Biol 241: 229–237. doi: 10.1006/dbio.2001.0515
+
+7. Moro E, Ozhan-Kizil G, Mongera A, Beis D, Wierzbicki C, et al. (2012) In vivo Wnt signaling tracing through a transgenic biosensor fish reveals novel activity domains. Dev Biol 366: 327–340. doi: 10.1016/j.ydbio.2012.03.023
+
+8. Jho EH, Zhang T, Domon C, Joo CK, Freund JN, et al. (2002) Wnt/beta-catenin/Tcf signaling induces the transcription of Axin2, a negative regulator of the signaling pathway. Mol Cell Biol 22: 1172–1183. doi: 10.1128/MCB.22.4.1172-1183.2002
+
+9. Lustig B, Jerchow B, Sachs M, Weiler S, Pietsch T, et al. (2002) Negative feedback loop of Wnt signaling through upregulation of conductin/axin2 in colorectal and liver tumors. Mol Cell Biol 22: 1184–1193. doi: 10.1128/MCB.22.4.1184-1193.2002
+
+10. Haegel H, Larue L, Ohsugi M, Fedorov L, Herrenknecht K, et al. (1995) Lack of beta-catenin affects mouse development at gastrulation. Development 121: 3529–3537.
+
+11. Yoshikawa Y, Fujimori T, McMahon AP, Takada S (1997) Evidence that absence of Wnt-3a signaling promotes neuralization instead of paraxial mesoderm development in the mouse. Dev Biol 183: 234–242. doi: 10.1006/dbio.1997.8502
+
+12. Liu P, Wakamiya M, Shea MJ, Albrecht U, Behringer RR, et al. (1999) Requirement for Wnt3 in vertebrate axis formation. Nat Genet 22: 361–365. doi: 10.1038/11932
+
+13. Lickert H, Kutsch S, Kanzler B, Tamai Y, Taketo MM, et al. (2002) Formation of multiple hearts in mice following deletion of beta-catenin in the embryonic endoderm. Dev Cell 3: 171–181. doi: 10.1016/S1534-5807(02)00206-X
+
+14. Huelsken J, Vogel R, Brinkmann V, Erdmann B, Birchmeier C, et al. (2000) Requirement for beta-catenin in anterior-posterior axis formation in mice. J Cell Biol 148: 567–578. doi: 10.1083/jcb.148.3.567
+
+15. Martin BL, Kimelman D (2012) Canonical Wnt signaling dynamically controls multiple stem cell fate decisions during vertebrate body formation. Dev Cell 22: 223–232. doi: 10.1016/j.devcel.2011.11.001
+
+16. Bone HK, Nelson AS, Goldring CE, Tosh D, Welham MJ (2011) A novel chemically directed route for the generation of definitive endoderm from human embryonic stem cells based on inhibition of GSK-3. J Cell Sci 124: 1992–2000. doi: 10.1242/jcs.081679
+
+17. Davidson KC, Adams AM, Goodson JM, McDonald CE, Potter JC, et al. (2012) Wnt/beta-catenin signaling promotes differentiation, not self-renewal, of human embryonic stem cells and is repressed by Oct4. Proc Natl Acad Sci U S A 109: 4485–4490. doi: 10.1073/pnas.1118777109
+
+18. Stoick-Cooper CL, Moon RT, Weidinger G (2007) Advances in signaling in vertebrate regeneration as a prelude to regenerative medicine. Genes Dev 21: 1292–1315. doi: 10.1101/gad.1540507
+
+19. White BD, Chien AJ, Dawson DW (2012) Dysregulation of Wnt/beta-catenin signaling in gastrointestinal cancers. Gastroenterology 142: 219–232. doi: 10.1053/j.gastro.2011.12.001
+
+20. Miyoshi Y, Iwao K, Nagasawa Y, Aihara T, Sasaki Y, et al. (1998) Activation of the beta-catenin gene in primary hepatocellular carcinomas by somatic alterations involving exon 3. Cancer Res 58: 2524–2527.
+
+21. de La Coste A, Romagnolo B, Billuart P, Renard CA, Buendia MA, et al. (1998) Somatic mutations of the beta-catenin gene are frequent in mouse and human hepatocellular carcinomas. Proc Natl Acad Sci U S A 95: 8847–8851. doi: 10.1073/pnas.95.15.8847
+
+22. Koesters R, Niggli F, von Knebel Doeberitz M, Stallmach T (2003) Nuclear accumulation of beta-catenin protein in Wilms’ tumours. J Pathol 199: 68–76. doi: 10.1002/path.1248
+
+23. Major MB, Camp ND, Berndt JD, Yi X, Goldenberg SJ, et al. (2007) Wilms tumor suppressor WTX negatively regulates WNT/beta-catenin signaling. Science 316: 1043–1046. doi: 10.1126/science/1141515
+
+24. Gelebart P, Anand M, Armanious H, Peters AC, Dien Bard J, et al. (2008) Constitutive activation of the Wnt canonical pathway in mantle cell lymphoma. Blood 112: 5171–5179. doi: 10.1182/blood-2008-02-139212
+
+25. Ge X, Lv X, Feng L, Liu X, Wang X (2012) High expression and nuclear localization of beta-catenin in diffuse large B-cell lymphoma. Mol Med Report 5: 1433–1437. doi: 10.3892/mmr.2012.835
+
+26. Tian E, Zhan F, Walker R, Rasmussen E, Ma Y, et al. (2003) The role of the Wnt-signaling antagonist DKK1 in the development of osteolytic lesions in multiple myeloma. N Engl J Med 349: 2483–2494. doi: 10.1056/NEJMoa030847
+
+27. Derksen PW, Tjin E, Meijer HP, Klok MD, MacGillavry HD, et al. (2004) Illegitimate WNT signaling promotes proliferation of multiple myeloma cells. Proc Natl Acad Sci U S A 101: 6122–6127. doi: 10.1073/pnas.0305855101
+
+28. Dutta-Simmons J, Zhang Y, Gorgun G, Gatt M, Mani M, et al. (2009) Aurora kinase A is a target of Wnt/beta-catenin involved in multiple myeloma disease progression. Blood 114: 2699–2708. doi: 10.1182/blood-2008-12-194290
+
+29. Lu D, Zhao Y, Tawatao R, Cottam HB, Sen M, et al. (2004) Activation of the Wnt signaling pathway in chronic lymphocytic leukemia. Proc Natl Acad Sci U S A 101: 3118–3123. doi: 10.1073/pnas.0308648100
+
+30. Muller-Tidow C, Steffen B, Cauvet T, Tickenbrock L, Ji P, et al. (2004) Translocation products in acute myeloid leukemia activate the Wnt signaling pathway in hematopoietic cells. Mol Cell Biol 24: 2890–2904. doi: 10.1128/MCB.24.7.2890-2904.2004
+
+31. Li F, Chong ZZ, Maiese K (2005) Vital elements of the Wnt-Frizzled signaling pathway in the nervous system. Curr Neurovasc Res 2: 331–340. doi: 10.2174/156720205774322557
+
+32. Clevers H, Nusse R (2012) Wnt/beta-Catenin Signaling and Disease. Cell 149: 1192–1205. doi: 10.1016/j.cell.2012.05.012
+
+33. Huang SM, Mishina YM, Liu S, Cheung A, Stegmeier F, et al. (2009) Tankyrase inhibition stabilizes axin and antagonizes Wnt signalling. Nature 461: 614–620. doi: 10.1038/nature08356
+
+34. Chen B, Dodge ME, Tang W, Lu J, Ma Z, et al. (2009) Small molecule-mediated disruption of Wnt-dependent signaling in tissue regeneration and cancer. Nat Chem Biol 5: 100–107. doi: 10.1038/nchembio.137
+
+35. Waaler J, Machon O, Tumova L, Dinh H, Korinek V, et al. (2012) A novel tankyrase inhibitor decreases canonical Wnt signaling in colon carcinoma cells and reduces tumor growth in conditional APC mutant mice. Cancer Res 72: 2822–2832. doi: 10.1158/0008-5472.CAN-11-3336
+
+36. Biechele TL, Moon RT (2008) Assaying beta-catenin/TCF transcription with beta-catenin/TCF transcription-based reporter constructs. Methods Mol Biol 468: 99–110. doi: 10.1007/978-1-59745-249-6_8
+
+37. Pera MF, Blasco-Lafita MJ, Cooper S, Mason M, Mills J, et al. (1988) Analysis of cell-differentiation lineage in human teratomas using new monoclonal antibodies to cytostructural antigens of embryonal carcinoma cells. Differentiation 39: 139–149. doi: 10.1111/j.1432-0436.1988.tb00089.x
+
+38. Cooper S, Pera MF, Bennett W, Finch JT (1992) A novel keratan sulphate proteoglycan from a human embryonal carcinoma cell line. Biochem J 286 (Pt 3): 959–966.
+
+39. Cooper S, Bennett W, Andrade J, Reubinoff BE, Thomson J, et al. (2002) Biochemical properties of a keratan sulphate/chondroitin sulphate proteoglycan expressed in primate pluripotent stem cells. J Anat 200: 259–265. doi: 10.1046/j.1469-7580.2002.00034.x
+
+40. Zhang JH, Chung TD, Oldenburg KR (1999) A Simple Statistical Parameter for Use in Evaluation and Validation of High Throughput Screening Assays. Journal of biomolecular screening 4: 67–73. doi: 10.1177/108705719900400206
+
+41. Biechele TL, Kulikauskas RM, Toroni RA, Lucero OM, Swift RD, et al. (2012) Wnt/beta-catenin signaling and AXIN1 regulate apoptosis triggered by inhibition of the mutant kinase BRAFV600E in human melanoma. Sci Signal 5: ra3. doi: 10.1126/scisignal.2002274
+
+42. Biechele TL, Camp ND, Fass DM, Kulikauskas RM, Robin NC, et al. (2010) Chemical-genetic screen identifies riluzole as an enhancer of Wnt/beta-catenin signaling in melanoma. Chemistry & biology 17: 1177–1182. doi: 10.1016/j.chembiol.2010.08.012
+
+43. Meijer L, Skaltsounis AL, Magiatis P, Polychronopoulos P, Knockaert M, et al. (2003) GSK-3-selective inhibitors derived from Tyrian purple indirubins. Chemistry & biology 10: 1255–1266. doi: 10.1016/j.chembiol.2003.11.010
+
+44. Major MB, Roberts BS, Berndt JD, Marine S, Anastas J, et al. (2008) New regulators of Wnt/beta-catenin signaling revealed by integrative molecular screening. Sci Signal 1: ra12. doi: 10.1126/scisignal.2000037
+
+45. Lipinski CA, Lombardo F, Dominy BW, Feeney PJ (2001) Experimental and computational approaches to estimate solubility and permeability in drug discovery and development settings. Advanced drug delivery reviews 46: 3–26. doi: 10.1016/S0169-409X(00)00129-0
+
+46. Irwin JJ, Shoichet BK (2005) ZINC–a free database of commercially available compounds for virtual screening. Journal of chemical information and modeling 45: 177–182. doi: 10.1021/ci049714+
+
+47. Roh H, Green DW, Boswell CB, Pippin JA, Drebin JA (2001) Suppression of beta-catenin inhibits the neoplastic growth of APC-mutant colon cancer cells. Cancer Res 61: 6563–6568.
+
+48. Callow MG, Tran H, Phu L, Lau T, Lee J, et al. (2011) Ubiquitin ligase RNF146 regulates tankyrase and Axin to promote Wnt signaling. PLoS One 6: e22595. doi: 10.1371/journal.pone.0022595
+
+49. Zhang Y, Liu S, Mickanin C, Feng Y, Charlat O, et al. (2011) RNF146 is a poly(ADP-ribose)-directed E3 ligase that regulates axin degradation and Wnt signalling. Nature cell biology 13: 623–629.
+
