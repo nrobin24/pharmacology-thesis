@@ -15,4 +15,4 @@ python concat-from-outline.py
 # to build pdf w/ biblio
 # pandoc dist/build.md -o mymanuscript.pdf --latex-engine=xelatex --bibliography=biblio.bib --csl=cell.csl
 
-pandoc -H options.sty --bibliography biblio.bib dist/build.md --latex-engine=xelatex -o dist/mypaper.pdf 
+pandoc -H options.sty --bibliography=biblio.bib --csl=cell.csl dist/build.md --latex-engine=xelatex -o dist/mypaper.pdf 
